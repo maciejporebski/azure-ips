@@ -1,0 +1,45 @@
+name: Update Service Tags
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  push:
+    branches: [ master ]
+
+permissions:
+      id-token: write
+      contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Azure Login
+      uses: Azure/login@v2
+      with:
+        client-id: ${{ secrets.AZURE_CLIENT_ID }}
+        tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+        subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+        enable-AzPSSession: true
+    - name: Get Updated Apps
+      uses: Azure/powershell@v1
+      with:
+        inlineScript: |
+          Set-Location $ENV:GITHUB_WORKSPACE
+          Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
+          dir
+          ./src/Get-AzureIps.ps1
+        azPSVersion: latest
+    - name: Commit Changes
+      run: |
+        cd $GITHUB_WORKSPACE
+        now=$(date)
+        git config --global user.email "${{ vars.GIT_CONFIG_USER_EMAIL }}"
+        git config --global user.name "${{ vars.GIT_CONFIG_USER_NAME }}"
+        git add --all
+        if [ -n "$(git status --porcelain)" ]
+        then
+          git commit -a -m "auto update service tags $now"
+          git push
+        fi
