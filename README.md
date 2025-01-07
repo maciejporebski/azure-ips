@@ -1,11 +1,23 @@
 # Azure IP Ranges and Service Tags – Public Cloud
+
  Azure IPs and Service Tags provided using static URLs, individual files per Service Tag and versioned files for use within KQL queries, etc.
----
-Latest Version: [ServiceTags_Public_Latest.json](ServiceTags_Public_Latest.json)
 
-Versioned Files: [versions](versions)
+## Latest Version
 
-Service Tag Files: serviceTags
+[ServiceTags_Public_Latest.json](ServiceTags_Public_Latest.json)
+
+## Versioned Files
+
+[versions](versions)
+
+## Service Tag Files
+
+Each Service Tag folder contains:
+- **serviceTag.json**: Full Service Tag json
+- **ips.json**: A JSON array of all IPv4 and IPv6 addresses belonging to the Service Tag
+- **ipv4.json**: A JSON array of just IPv4 addresses belonging to the Service Tag
+- **ipv6.json**: A JSON array of just IPv6 addresses belonging to the Service Tag
+
 | Service Tag | Full Service Tag | All IPs | IPv4 | IPv6 |
 |---|---|---|---|---|
 | ActionGroup | [serviceTags/ActionGroup/serviceTag.json](serviceTags/ActionGroup/serviceTag.json) | [serviceTags/ActionGroup/ips.json](serviceTags/ActionGroup/ips.json) | [serviceTags/ActionGroup/ipv4.json](serviceTags/ActionGroup/ipv4.json) | [serviceTags/ActionGroup/ipv6.json](serviceTags/ActionGroup/ipv6.json) |
