@@ -1,0 +1,15 @@
+{
+  "name": "AzureSecurityCenter.UKWest",
+  "id": "AzureSecurityCenter.UKWest",
+  "properties": {
+    "changeNumber": 1,
+    "region": "ukwest",
+    "regionId": 28,
+    "platform": "Azure",
+    "systemService": "AzureSecurityCenter",
+    "addressPrefixes": [
+      "51.140.215.128/27"
+    ],
+    "networkFeatures": null
+  }
+}

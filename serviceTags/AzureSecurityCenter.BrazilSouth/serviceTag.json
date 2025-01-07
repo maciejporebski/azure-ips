@@ -1,0 +1,19 @@
+{
+  "name": "AzureSecurityCenter.BrazilSouth",
+  "id": "AzureSecurityCenter.BrazilSouth",
+  "properties": {
+    "changeNumber": 2,
+    "region": "brazilsouth",
+    "regionId": 9,
+    "platform": "Azure",
+    "systemService": "AzureSecurityCenter",
+    "addressPrefixes": [
+      "74.163.50.128/25",
+      "74.163.51.0/24",
+      "74.163.52.0/23",
+      "74.163.54.0/26",
+      "191.234.149.224/27"
+    ],
+    "networkFeatures": null
+  }
+}

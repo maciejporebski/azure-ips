@@ -1,0 +1,21 @@
+{
+  "name": "WindowsVirtualDesktop.WestUS3",
+  "id": "WindowsVirtualDesktop.WestUS3",
+  "properties": {
+    "changeNumber": 4,
+    "region": "westus3",
+    "regionId": 79,
+    "platform": "Azure",
+    "systemService": "WindowsVirtualDesktop",
+    "addressPrefixes": [
+      "20.106.72.198/32",
+      "20.106.73.141/32",
+      "20.106.101.214/32",
+      "20.118.167.77/32",
+      "20.150.138.147/32",
+      "40.64.146.192/28",
+      "2603:1061:2010:30::/117"
+    ],
+    "networkFeatures": null
+  }
+}

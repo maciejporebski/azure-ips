@@ -1,0 +1,19 @@
+{
+  "name": "AzureSecurityCenter.EastUS2",
+  "id": "AzureSecurityCenter.EastUS2",
+  "properties": {
+    "changeNumber": 3,
+    "region": "eastus2",
+    "regionId": 33,
+    "platform": "Azure",
+    "systemService": "AzureSecurityCenter",
+    "addressPrefixes": [
+      "20.44.19.128/27",
+      "40.84.90.128/25",
+      "40.84.92.0/23",
+      "104.208.207.64/26",
+      "135.237.168.0/24"
+    ],
+    "networkFeatures": null
+  }
+}

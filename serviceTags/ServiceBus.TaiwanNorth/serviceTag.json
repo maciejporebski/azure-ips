@@ -1,0 +1,21 @@
+{
+  "name": "ServiceBus.TaiwanNorth",
+  "id": "ServiceBus.TaiwanNorth",
+  "properties": {
+    "changeNumber": 1,
+    "region": "taiwannorth",
+    "regionId": 8,
+    "platform": "Azure",
+    "systemService": "AzureServiceBus",
+    "addressPrefixes": [
+      "51.53.30.0/25",
+      "51.53.106.80/29",
+      "51.53.106.96/28",
+      "2603:1040:1302::780/121"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG"
+    ]
+  }
+}

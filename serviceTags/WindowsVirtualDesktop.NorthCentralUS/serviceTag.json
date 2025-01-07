@@ -1,0 +1,20 @@
+{
+  "name": "WindowsVirtualDesktop.NorthCentralUS",
+  "id": "WindowsVirtualDesktop.NorthCentralUS",
+  "properties": {
+    "changeNumber": 4,
+    "region": "northcentralus",
+    "regionId": 34,
+    "platform": "Azure",
+    "systemService": "WindowsVirtualDesktop",
+    "addressPrefixes": [
+      "20.236.85.126/31",
+      "40.64.146.96/28",
+      "52.159.115.97/32",
+      "52.159.116.86/32",
+      "52.159.116.149/32",
+      "2603:1061:2010:11::/117"
+    ],
+    "networkFeatures": null
+  }
+}

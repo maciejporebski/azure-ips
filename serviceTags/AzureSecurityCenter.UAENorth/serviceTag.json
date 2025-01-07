@@ -1,0 +1,15 @@
+{
+  "name": "AzureSecurityCenter.UAENorth",
+  "id": "AzureSecurityCenter.UAENorth",
+  "properties": {
+    "changeNumber": 1,
+    "region": "uaenorth",
+    "regionId": 60,
+    "platform": "Azure",
+    "systemService": "AzureSecurityCenter",
+    "addressPrefixes": [
+      "40.120.64.128/27"
+    ],
+    "networkFeatures": null
+  }
+}

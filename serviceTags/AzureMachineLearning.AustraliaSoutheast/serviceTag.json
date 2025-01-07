@@ -1,0 +1,17 @@
+{
+  "name": "AzureMachineLearning.AustraliaSoutheast",
+  "id": "AzureMachineLearning.AustraliaSoutheast",
+  "properties": {
+    "changeNumber": 1,
+    "region": "australiasoutheast",
+    "regionId": 4,
+    "platform": "Azure",
+    "systemService": "AzureMachineLearning",
+    "addressPrefixes": [
+      "13.77.50.224/28",
+      "20.42.227.48/28",
+      "2603:1010:101::300/122"
+    ],
+    "networkFeatures": null
+  }
+}

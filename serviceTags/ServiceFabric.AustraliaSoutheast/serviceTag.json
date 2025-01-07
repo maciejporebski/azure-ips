@@ -1,0 +1,17 @@
+{
+  "name": "ServiceFabric.AustraliaSoutheast",
+  "id": "ServiceFabric.AustraliaSoutheast",
+  "properties": {
+    "changeNumber": 1,
+    "region": "australiasoutheast",
+    "regionId": 4,
+    "platform": "Azure",
+    "systemService": "ServiceFabric",
+    "addressPrefixes": [
+      "13.77.52.0/29",
+      "40.115.64.123/32",
+      "2603:1010:101:402::98/125"
+    ],
+    "networkFeatures": null
+  }
+}

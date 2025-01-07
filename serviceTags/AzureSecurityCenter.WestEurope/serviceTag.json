@@ -1,0 +1,19 @@
+{
+  "name": "AzureSecurityCenter.WestEurope",
+  "id": "AzureSecurityCenter.WestEurope",
+  "properties": {
+    "changeNumber": 3,
+    "region": "westeurope",
+    "regionId": 18,
+    "platform": "Azure",
+    "systemService": "AzureSecurityCenter",
+    "addressPrefixes": [
+      "48.209.0.0/23",
+      "48.209.2.0/25",
+      "52.178.17.32/27",
+      "57.153.216.0/24",
+      "172.211.127.64/26"
+    ],
+    "networkFeatures": null
+  }
+}

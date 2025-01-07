@@ -1,0 +1,22 @@
+{
+  "name": "PowerPlatformInfra.PolandCentral",
+  "id": "PowerPlatformInfra.PolandCentral",
+  "properties": {
+    "changeNumber": 2,
+    "region": "polandcentral",
+    "regionId": 52,
+    "platform": "Azure",
+    "systemService": "PowerPlatformInfra",
+    "addressPrefixes": [
+      "20.215.74.96/29",
+      "20.215.75.0/26",
+      "20.215.75.64/27",
+      "2603:1061:2002:9800::/57"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "FW"
+    ]
+  }
+}

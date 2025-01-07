@@ -1,0 +1,21 @@
+{
+  "name": "MicrosoftContainerRegistry.TaiwanNorth",
+  "id": "MicrosoftContainerRegistry.TaiwanNorth",
+  "properties": {
+    "changeNumber": 1,
+    "region": "taiwannorth",
+    "regionId": 8,
+    "platform": "Azure",
+    "systemService": "MicrosoftContainerRegistry",
+    "addressPrefixes": [
+      "51.53.106.64/29",
+      "2603:1040:1302:400::40/125"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}

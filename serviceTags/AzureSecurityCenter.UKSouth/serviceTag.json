@@ -1,0 +1,19 @@
+{
+  "name": "AzureSecurityCenter.UKSouth",
+  "id": "AzureSecurityCenter.UKSouth",
+  "properties": {
+    "changeNumber": 3,
+    "region": "uksouth",
+    "regionId": 27,
+    "platform": "Azure",
+    "systemService": "AzureSecurityCenter",
+    "addressPrefixes": [
+      "51.140.149.96/27",
+      "85.210.104.0/24",
+      "85.210.105.0/26",
+      "85.210.197.0/25",
+      "85.210.198.0/23"
+    ],
+    "networkFeatures": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ApiManagement.SouthAfricaWest",
+  "id": "ApiManagement.SouthAfricaWest",
+  "properties": {
+    "changeNumber": 2,
+    "region": "southafricawest",
+    "regionId": 83,
+    "platform": "Azure",
+    "systemService": "AzureApiManagement",
+    "addressPrefixes": [
+      "102.133.0.79/32",
+      "102.133.26.4/31",
+      "102.133.28.0/28",
+      "2603:1000:4:402::140/124"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}

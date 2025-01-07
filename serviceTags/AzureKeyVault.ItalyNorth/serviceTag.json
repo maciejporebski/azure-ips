@@ -1,0 +1,26 @@
+{
+  "name": "AzureKeyVault.ItalyNorth",
+  "id": "AzureKeyVault.ItalyNorth",
+  "properties": {
+    "changeNumber": 2,
+    "region": "italynorth",
+    "regionId": 93,
+    "platform": "Azure",
+    "systemService": "AzureKeyVault",
+    "addressPrefixes": [
+      "4.232.30.216/29",
+      "4.232.106.124/30",
+      "4.232.122.76/30",
+      "4.232.194.76/30",
+      "2603:1020:1204:1::208/125",
+      "2603:1020:1204:3::540/125",
+      "2603:1020:1204:3::548/126"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}
