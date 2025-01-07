@@ -1,4 +1,3 @@
-
 $sourceUrl = "https://www.microsoft.com/en-us/download/details.aspx?id=56519"
 $pageContent = Invoke-WebRequest -Uri $sourceUrl -UseBasicParsing
 $downloadUrlPattern = "https://download\.microsoft\.com/download/[^\s""]+"
@@ -8,12 +7,12 @@ $downloadReq = Invoke-WebRequest -Uri $downloadUrl -UseBasicParsing
 $json = [System.Text.Encoding]::UTF8.GetString($downloadReq.Content)
 $serviceTags = ($json | ConvertFrom-Json).values
 
-$readme = "# Azure IP Ranges and Service Tags – Public Cloud`n Azure IPs and Service Tags provided using static URLs, individual files per Service Tag and versioned files for use within KQL queries, etc.`n---`n"
+$readme = "# Azure IP Ranges and Service Tags – Public Cloud`n`n Azure IPs and Service Tags provided using static URLs, individual files per Service Tag and versioned files for use within KQL queries, etc.`n`n"
 
 $latestPath = 'ServiceTags_Public_Latest.json'
 $json | Out-File $latestPath
 
-$readme += "Latest Version: [$latestPath]($latestPath)`n`n"
+$readme += "## Latest Version`n`n[$latestPath]($latestPath)`n`n"
 
 $versionedPath = "versions/$($fileName)"
 $versionedFolder = Split-Path $versionedPath
@@ -21,13 +20,13 @@ if (-not (Test-Path -Path $versionedFolder)) {
     New-Item -ItemType Directory -Path $versionedFolder | Out-Null
 }
 $json | Out-File $versionedPath
-$readme += "Versioned Files: [$versionedFolder]($versionedFolder)`n`n"
+$readme += "## Versioned Files`n`n[$versionedFolder]($versionedFolder)`n`n"
 
 $serviceTagsFolder = 'serviceTags'
 if (-not (Test-Path -Path $serviceTagsFolder)) {
     New-Item -ItemType Directory -Path $serviceTagsFolder | Out-Null
 }
-$readme += "Service Tag Files: $serviceTagsFolder`n"
+$readme += "## Service Tag Files`n`nEach Service Tag folder contains:`n- **serviceTag.json**: Full Service Tag json`n- **ips.json**: A JSON array of all IPv4 and IPv6 addresses belonging to the Service Tag`n- **ipv4.json**: A JSON array of just IPv4 addresses belonging to the Service Tag`n- **ipv6.json**: A JSON array of just IPv6 addresses belonging to the Service Tag`n`n"
 $readme += "| Service Tag | Full Service Tag | All IPs | IPv4 | IPv6 |`n|---|---|---|---|---|`n"
 foreach ($serviceTag in $serviceTags) {
     $serviceTagFolder = "$serviceTagsFolder/$($serviceTag.id)"
