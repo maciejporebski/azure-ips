@@ -35,3 +35,20 @@ eg. files for the `AzureCloud` are found under:
 - [serviceTags/AzureCloud/ips.json](serviceTags/AzureCloud/ips.json)
 - [serviceTags/AzureCloud/ipv4.json](serviceTags/AzureCloud/ipv4.json)
 - [serviceTags/AzureCloud/ipv6.json](serviceTags/AzureCloud/ipv6.json)
+
+## Using in KQL
+
+```kql
+let FrontDoorBackendIps = toscalar(
+    externaldata(IPs: dynamic)
+    [
+        'https://raw.githubusercontent.com/maciejporebski/azure-ips/refs/heads/main/serviceTags/AzureFrontDoor.Backend/ipv4.json'
+    ]
+    with (format = 'raw')
+    | mv-expand IPs
+    | summarize make_list(IPs)
+);
+StorageBlobLogs
+| extend SourceIp = tostring(split(CallerIpAddress,":")[0])
+| extend IsFrontDoor = ipv4_is_in_any_range(SourceIp, FrontDoorBackendIps)
+```
