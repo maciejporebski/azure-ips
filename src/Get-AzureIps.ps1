@@ -1,8 +1,4 @@
-
-$sourceUrl = "https://www.microsoft.com/en-us/download/details.aspx?id=56519"
-$pageContent = Invoke-WebRequest -Uri $sourceUrl -UseBasicParsing
-$downloadUrlPattern = "https://download\.microsoft\.com/download/[^\s""]+"
-$downloadUrl = [regex]::Match($pageContent.Content, $downloadUrlPattern).Value
+$downloadUrl = "https://download.microsoft.com/download/7/1/D/71D86715-5596-4529-9B13-DA13A5DE5B63/ServiceTags_Public_Latest.json"
 $fileName = $downloadUrl.Split("/")[-1]
 $downloadReq = Invoke-WebRequest -Uri $downloadUrl -UseBasicParsing
 $json = [System.Text.Encoding]::UTF8.GetString($downloadReq.Content)

@@ -7,9 +7,6 @@ The following file tracks the current version:
 
 [ServiceTags_Public_Latest.json](ServiceTags_Public_Latest.json)
 
-## Versioned Files
-Version-specific files can be found in the [versions](versions) directory.
-
 The file name pattern is: `ServiceTags_Public_yyyymmdd.json`
 
 eg. version `20250106` is located under [versions/ServiceTags_Public_20250106.json](\versions\ServiceTags_Public_20250106.json)
