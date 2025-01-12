@@ -4,15 +4,7 @@ $downloadReq = Invoke-WebRequest -Uri $downloadUrl -UseBasicParsing
 $json = [System.Text.Encoding]::UTF8.GetString($downloadReq.Content)
 $serviceTags = ($json | ConvertFrom-Json).values
 
-$latestPath = 'ServiceTags_Public_Latest.json'
-$json | Out-File $latestPath
-
-$versionedPath = "versions/$($fileName)"
-$versionedFolder = Split-Path $versionedPath
-if (-not (Test-Path -Path $versionedFolder)) {
-    New-Item -ItemType Directory -Path $versionedFolder | Out-Null
-}
-$json | Out-File $versionedPath
+$json | Out-File $fileName
 
 $serviceTagsFolder = 'serviceTags'
 if (-not (Test-Path -Path $serviceTagsFolder)) {
