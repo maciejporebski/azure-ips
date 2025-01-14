@@ -2,7 +2,7 @@
   "name": "AzureCloud.israelcentral",
   "id": "AzureCloud.israelcentral",
   "properties": {
-    "changeNumber": 25,
+    "changeNumber": 26,
     "region": "israelcentral",
     "regionId": 85,
     "platform": "Azure",
@@ -22,6 +22,7 @@
       "20.135.250.0/23",
       "20.135.252.0/23",
       "20.143.26.0/23",
+      "20.153.42.0/24",
       "20.157.169.0/24",
       "20.157.199.0/24",
       "20.201.129.0/24",
