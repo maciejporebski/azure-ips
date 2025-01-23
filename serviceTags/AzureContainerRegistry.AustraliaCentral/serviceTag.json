@@ -20,6 +20,11 @@
       "2603:1010:304:402::580/122",
       "2603:1010:304:402::600/121"
     ],
-    "networkFeatures": null
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
   }
 }

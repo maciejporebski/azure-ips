@@ -2,7 +2,7 @@
   "name": "AzureCloud.southindia",
   "id": "AzureCloud.southindia",
   "properties": {
-    "changeNumber": 43,
+    "changeNumber": 44,
     "region": "southindia",
     "regionId": 22,
     "platform": "Azure",
@@ -22,6 +22,7 @@
       "20.95.141.0/24",
       "20.135.42.0/23",
       "20.150.24.0/24",
+      "20.153.142.0/24",
       "20.157.135.0/24",
       "20.190.145.128/25",
       "20.190.174.0/24",
