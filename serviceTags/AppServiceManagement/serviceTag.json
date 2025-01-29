@@ -2,7 +2,7 @@
   "name": "AppServiceManagement",
   "id": "AppServiceManagement",
   "properties": {
-    "changeNumber": 59,
+    "changeNumber": 60,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -222,6 +222,8 @@
       "104.211.160.229/32",
       "104.211.225.66/32",
       "104.215.158.33/32",
+      "135.233.204.16/28",
+      "135.234.22.240/28",
       "157.55.208.185/32",
       "158.23.114.64/26",
       "168.61.143.0/26",

@@ -2,7 +2,7 @@
   "name": "Storage.JioIndiaCentral",
   "id": "Storage.JioIndiaCentral",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "jioindiacentral",
     "regionId": 64,
     "platform": "Azure",
@@ -11,6 +11,7 @@
       "20.60.170.0/23",
       "20.150.64.0/24",
       "20.150.109.0/24",
+      "20.153.43.0/24",
       "20.157.152.0/24",
       "20.157.233.0/24",
       "57.150.184.0/23",
