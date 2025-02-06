@@ -2,13 +2,14 @@
   "name": "AzureSecurityCenter.SoutheastAsia",
   "id": "AzureSecurityCenter.SoutheastAsia",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "southeastasia",
     "regionId": 2,
     "platform": "Azure",
     "systemService": "AzureSecurityCenter",
     "addressPrefixes": [
-      "40.78.239.64/27"
+      "40.78.239.64/27",
+      "172.188.236.0/22"
     ],
     "networkFeatures": null
   }

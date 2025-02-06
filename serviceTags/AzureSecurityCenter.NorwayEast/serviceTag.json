@@ -2,13 +2,18 @@
   "name": "AzureSecurityCenter.NorwayEast",
   "id": "AzureSecurityCenter.NorwayEast",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "norwaye",
     "regionId": 63,
     "platform": "Azure",
     "systemService": "AzureSecurityCenter",
     "addressPrefixes": [
-      "51.120.109.64/27"
+      "4.235.60.160/27",
+      "4.235.60.192/26",
+      "4.235.61.0/24",
+      "4.235.62.0/23",
+      "51.120.109.64/27",
+      "131.163.8.0/22"
     ],
     "networkFeatures": null
   }

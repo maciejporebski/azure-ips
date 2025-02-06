@@ -2,15 +2,14 @@
   "name": "AzureCloud.centralfrance",
   "id": "AzureCloud.centralfrance",
   "properties": {
-    "changeNumber": 71,
+    "changeNumber": 72,
     "region": "centralfrance",
     "regionId": 19,
     "platform": "Azure",
     "systemService": "",
     "addressPrefixes": [
       "4.176.0.0/16",
-      "4.178.0.0/17",
-      "4.178.128.0/18",
+      "4.178.0.0/16",
       "4.211.0.0/16",
       "4.212.0.0/16",
       "4.233.0.0/16",

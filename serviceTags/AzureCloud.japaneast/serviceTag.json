@@ -2,7 +2,7 @@
   "name": "AzureCloud.japaneast",
   "id": "AzureCloud.japaneast",
   "properties": {
-    "changeNumber": 88,
+    "changeNumber": 89,
     "region": "japaneast",
     "regionId": 24,
     "platform": "Azure",
@@ -112,6 +112,7 @@
       "40.120.180.0/25",
       "40.120.180.128/27",
       "40.120.180.160/30",
+      "40.120.180.164/31",
       "40.126.13.128/25",
       "40.126.38.0/24",
       "48.208.32.0/24",

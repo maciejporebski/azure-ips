@@ -2,7 +2,7 @@
   "name": "AzureCloud.usstagee",
   "id": "AzureCloud.usstagee",
   "properties": {
-    "changeNumber": 7,
+    "changeNumber": 8,
     "region": "usstagee",
     "regionId": 68,
     "platform": "Azure",
@@ -75,6 +75,7 @@
       "2603:1036:2500:c::/64",
       "2603:1036:3000:a0::/59",
       "2603:1037:1:a0::/59",
+      "2603:1061:1312:4800::/54",
       "2603:1061:1700::/48",
       "2603:1061:2010:27::/64",
       "2603:1061:2011:27::/64"
