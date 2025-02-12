@@ -2,7 +2,7 @@
   "name": "AzureCloud.westcentralus",
   "id": "AzureCloud.westcentralus",
   "properties": {
-    "changeNumber": 56,
+    "changeNumber": 57,
     "region": "westcentralus",
     "regionId": 36,
     "platform": "Azure",
@@ -22,6 +22,7 @@
       "13.105.107.224/27",
       "13.105.108.0/28",
       "13.105.108.32/27",
+      "20.20.190.0/23",
       "20.33.133.0/24",
       "20.33.211.0/24",
       "20.33.213.0/24",
