@@ -2,7 +2,7 @@
   "name": "AzureMonitor.CentralUS",
   "id": "AzureMonitor.CentralUS",
   "properties": {
-    "changeNumber": 32,
+    "changeNumber": 33,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
@@ -68,6 +68,7 @@
       "2603:1030:7::155/128",
       "2603:1030:7::79e/128",
       "2603:1030:7:5::e/128",
+      "2603:1030:7:5::15/128",
       "2603:1030:7:5::17/128",
       "2603:1030:7:5::29/128",
       "2603:1030:7:5::32/128",

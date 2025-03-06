@@ -2,7 +2,7 @@
   "name": "AzureCloud.spaincentral",
   "id": "AzureCloud.spaincentral",
   "properties": {
-    "changeNumber": 22,
+    "changeNumber": 23,
     "region": "spaincentral",
     "regionId": 88,
     "platform": "Azure",
@@ -41,6 +41,7 @@
       "52.102.165.0/24",
       "52.103.36.0/24",
       "52.103.164.0/24",
+      "52.106.186.0/27",
       "52.108.133.0/24",
       "52.108.148.0/24",
       "52.109.154.0/23",

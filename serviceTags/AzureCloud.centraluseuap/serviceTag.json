@@ -2,7 +2,7 @@
   "name": "AzureCloud.centraluseuap",
   "id": "AzureCloud.centraluseuap",
   "properties": {
-    "changeNumber": 70,
+    "changeNumber": 71,
     "region": "centraluseuap",
     "regionId": 48,
     "platform": "Azure",
@@ -220,6 +220,7 @@
       "2603:1030:9:5b8::/61",
       "2603:1030:9:5c0::/62",
       "2603:1030:9:5d8::/64",
+      "2603:1030:9:67c::/62",
       "2603:1030:e::/48",
       "2603:1030:f::/48",
       "2603:1030:12::/48",

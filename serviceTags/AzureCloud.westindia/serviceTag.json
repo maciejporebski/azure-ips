@@ -2,7 +2,7 @@
   "name": "AzureCloud.westindia",
   "id": "AzureCloud.westindia",
   "properties": {
-    "changeNumber": 37,
+    "changeNumber": 38,
     "region": "westindia",
     "regionId": 23,
     "platform": "Azure",
@@ -48,6 +48,7 @@
       "52.102.197.0/24",
       "52.103.69.0/24",
       "52.103.197.0/24",
+      "52.106.217.32/27",
       "52.108.73.0/24",
       "52.108.94.0/24",
       "52.109.64.0/22",

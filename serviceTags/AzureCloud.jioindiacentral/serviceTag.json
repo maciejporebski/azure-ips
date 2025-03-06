@@ -2,7 +2,7 @@
   "name": "AzureCloud.jioindiacentral",
   "id": "AzureCloud.jioindiacentral",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "jioindiacentral",
     "regionId": 64,
     "platform": "Azure",
@@ -35,6 +35,7 @@
       "40.119.120.0/22",
       "40.126.63.0/26",
       "40.126.205.0/24",
+      "52.106.217.160/27",
       "52.108.123.0/24",
       "52.253.192.0/24",
       "57.150.184.0/23",

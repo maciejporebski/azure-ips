@@ -2,7 +2,7 @@
   "name": "AzureCloud.taiwannorthwest",
   "id": "AzureCloud.taiwannorthwest",
   "properties": {
-    "changeNumber": 12,
+    "changeNumber": 13,
     "region": "taiwannorthwest",
     "regionId": 96,
     "platform": "Azure",
@@ -42,6 +42,7 @@
       "52.103.42.0/24",
       "52.103.169.0/24",
       "52.103.170.0/24",
+      "52.106.218.160/27",
       "52.108.150.0/24",
       "52.113.192.0/24",
       "52.123.60.0/24",
