@@ -15,8 +15,8 @@
       "2603:1020:d04:402::330/124"
     ],
     "networkFeatures": [
-      "NSG",
-      "API"
+      "API",
+      "NSG"
     ]
   }
 }
