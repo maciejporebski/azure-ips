@@ -2,7 +2,7 @@
   "name": "Dynamics365BusinessCentral",
   "id": "Dynamics365BusinessCentral",
   "properties": {
-    "changeNumber": 14,
+    "changeNumber": 15,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -75,7 +75,9 @@
       "68.219.173.128/25",
       "74.163.49.0/26",
       "74.178.47.0/24",
+      "74.178.185.0/24",
       "104.208.176.0/25",
+      "131.163.42.0/26",
       "131.189.7.0/25",
       "172.187.64.0/24",
       "172.188.155.128/25",

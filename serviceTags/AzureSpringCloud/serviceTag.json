@@ -2,12 +2,13 @@
   "name": "AzureSpringCloud",
   "id": "AzureSpringCloud",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
     "systemService": "AzureSpringCloud",
     "addressPrefixes": [
+      "4.199.84.0/24",
       "4.232.27.0/24",
       "9.160.42.0/24",
       "9.205.34.0/24",

@@ -2,13 +2,15 @@
   "name": "AzureConnectors.SpainCentral",
   "id": "AzureConnectors.SpainCentral",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "spaincentral",
     "regionId": 88,
     "platform": "Azure",
     "systemService": "AzureConnectors",
     "addressPrefixes": [
       "68.221.92.64/26",
+      "68.221.248.51/32",
+      "68.221.248.79/32",
       "2603:1020:1403:2::80/122"
     ],
     "networkFeatures": [

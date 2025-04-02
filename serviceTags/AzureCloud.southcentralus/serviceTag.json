@@ -2,7 +2,7 @@
   "name": "AzureCloud.southcentralus",
   "id": "AzureCloud.southcentralus",
   "properties": {
-    "changeNumber": 154,
+    "changeNumber": 155,
     "region": "southcentralus",
     "regionId": 35,
     "platform": "Azure",
@@ -89,6 +89,7 @@
       "20.150.94.0/24",
       "20.153.0.0/24",
       "20.153.25.0/24",
+      "20.153.156.0/24",
       "20.157.43.0/24",
       "20.157.54.0/24",
       "20.157.86.0/24",

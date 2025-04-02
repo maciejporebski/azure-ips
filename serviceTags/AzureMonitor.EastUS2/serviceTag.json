@@ -2,7 +2,7 @@
   "name": "AzureMonitor.EastUS2",
   "id": "AzureMonitor.EastUS2",
   "properties": {
-    "changeNumber": 35,
+    "changeNumber": 36,
     "region": "eastus2",
     "regionId": 33,
     "platform": "Azure",
@@ -53,6 +53,7 @@
       "137.116.82.175/32",
       "172.210.218.224/29",
       "172.210.218.240/28",
+      "2603:1030:408::240/128",
       "2603:1030:408::254/128",
       "2603:1030:408:3::20/128",
       "2603:1030:408:3::74/128",

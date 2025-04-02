@@ -2,12 +2,13 @@
   "name": "EventHub.AustraliaSoutheast",
   "id": "EventHub.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
     "systemService": "AzureEventHub",
     "addressPrefixes": [
+      "4.199.88.128/26",
       "13.77.50.32/27",
       "20.92.2.0/24",
       "40.115.79.2/32",

@@ -2,7 +2,7 @@
   "name": "AzureCloud.westus2",
   "id": "AzureCloud.westus2",
   "properties": {
-    "changeNumber": 99,
+    "changeNumber": 100,
     "region": "westus2",
     "regionId": 38,
     "platform": "Azure",
@@ -97,6 +97,7 @@
       "20.153.24.0/24",
       "20.153.47.0/24",
       "20.153.136.0/24",
+      "20.153.157.0/24",
       "20.157.25.0/24",
       "20.157.50.0/23",
       "20.157.106.0/24",

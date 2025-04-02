@@ -2,12 +2,14 @@
   "name": "PowerBI.IndonesiaCentral",
   "id": "PowerBI.IndonesiaCentral",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "indonesiacentral",
     "regionId": 6,
     "platform": "Azure",
     "systemService": "PowerBI",
     "addressPrefixes": [
+      "70.153.64.48/28",
+      "70.153.64.64/28",
       "70.153.165.90/31",
       "70.153.165.92/30",
       "70.153.165.104/29",

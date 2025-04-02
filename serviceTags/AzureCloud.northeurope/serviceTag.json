@@ -2,7 +2,7 @@
   "name": "AzureCloud.northeurope",
   "id": "AzureCloud.northeurope",
   "properties": {
-    "changeNumber": 115,
+    "changeNumber": 116,
     "region": "northeurope",
     "regionId": 17,
     "platform": "Azure",
@@ -272,6 +272,7 @@
       "57.150.124.0/23",
       "57.150.164.0/23",
       "57.150.220.0/23",
+      "57.157.28.0/31",
       "65.52.64.0/20",
       "65.52.224.0/21",
       "68.219.0.0/17",

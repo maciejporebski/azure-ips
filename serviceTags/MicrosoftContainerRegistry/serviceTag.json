@@ -2,13 +2,14 @@
   "name": "MicrosoftContainerRegistry",
   "id": "MicrosoftContainerRegistry",
   "properties": {
-    "changeNumber": 49,
+    "changeNumber": 50,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
     "systemService": "MicrosoftContainerRegistry",
     "addressPrefixes": [
       "4.190.144.0/29",
+      "4.199.88.0/29",
       "4.232.106.64/29",
       "4.232.122.64/29",
       "4.232.194.64/29",
@@ -179,6 +180,7 @@
       "2603:1010:6:802::88/125",
       "2603:1010:6:c02::88/125",
       "2603:1010:101:402::88/125",
+      "2603:1010:207:400::/125",
       "2603:1010:304:402::88/125",
       "2603:1010:404:402::88/125",
       "2603:1010:502:400::40/125",

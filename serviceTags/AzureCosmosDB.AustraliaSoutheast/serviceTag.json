@@ -2,7 +2,7 @@
   "name": "AzureCosmosDB.AustraliaSoutheast",
   "id": "AzureCosmosDB.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 10,
+    "changeNumber": 11,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
@@ -18,7 +18,8 @@
       "52.255.58.221/32",
       "104.46.177.64/27",
       "191.239.179.124/32",
-      "2603:1010:101:402::c0/122"
+      "2603:1010:101:402::c0/122",
+      "2603:1010:207::2e0/123"
     ],
     "networkFeatures": [
       "API",

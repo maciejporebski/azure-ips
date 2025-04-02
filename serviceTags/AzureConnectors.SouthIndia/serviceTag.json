@@ -2,7 +2,7 @@
   "name": "AzureConnectors.SouthIndia",
   "id": "AzureConnectors.SouthIndia",
   "properties": {
-    "changeNumber": 7,
+    "changeNumber": 8,
     "region": "southindia",
     "regionId": 22,
     "platform": "Azure",
@@ -18,6 +18,7 @@
       "52.172.80.0/26",
       "104.211.206.193/32",
       "104.211.208.168/32",
+      "104.211.214.161/32",
       "2603:1040:c06:6::1c0/122",
       "2603:1040:c06:402::180/122"
     ],
