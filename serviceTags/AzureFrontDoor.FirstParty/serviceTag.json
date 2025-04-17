@@ -2,7 +2,7 @@
   "name": "AzureFrontDoor.FirstParty",
   "id": "AzureFrontDoor.FirstParty",
   "properties": {
-    "changeNumber": 18,
+    "changeNumber": 19,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -44,7 +44,6 @@
       "150.171.70.0/23",
       "150.171.72.0/21",
       "150.171.82.0/23",
-      "150.171.97.0/24",
       "150.171.98.0/23",
       "150.171.100.0/22",
       "202.89.233.96/28",

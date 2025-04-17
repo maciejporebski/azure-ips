@@ -2,7 +2,7 @@
   "name": "AzureSecurityCenter",
   "id": "AzureSecurityCenter",
   "properties": {
-    "changeNumber": 9,
+    "changeNumber": 10,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -261,6 +261,7 @@
       "130.213.129.0/25",
       "130.213.129.128/27",
       "131.163.8.0/22",
+      "131.189.124.0/22",
       "132.164.130.32/27",
       "132.164.130.128/25",
       "132.164.132.0/23",
