@@ -2,7 +2,7 @@
   "name": "Storage.EastUS2",
   "id": "Storage.EastUS2",
   "properties": {
-    "changeNumber": 41,
+    "changeNumber": 42,
     "region": "eastus2",
     "regionId": 33,
     "platform": "Azure",
@@ -42,6 +42,7 @@
       "20.153.49.0/24",
       "20.153.51.0/24",
       "20.153.63.0/24",
+      "20.153.65.0/24",
       "20.157.36.0/23",
       "20.157.48.0/23",
       "20.157.62.0/23",
