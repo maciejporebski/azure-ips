@@ -2,7 +2,7 @@
   "name": "AzureKeyVault.MalaysiaWest",
   "id": "AzureKeyVault.MalaysiaWest",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "malaysiawest",
     "regionId": 92,
     "platform": "Azure",
@@ -10,6 +10,8 @@
     "addressPrefixes": [
       "20.17.120.32/29",
       "20.17.130.52/30",
+      "20.17.170.232/30",
+      "20.17.186.232/30",
       "2603:1040:1602:1::224/126",
       "2603:1040:1602:1::228/125",
       "2603:1040:1602:1::2e0/125",

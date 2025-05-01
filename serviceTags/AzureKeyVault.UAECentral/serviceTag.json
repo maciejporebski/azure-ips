@@ -2,7 +2,7 @@
   "name": "AzureKeyVault.UAECentral",
   "id": "AzureKeyVault.UAECentral",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "uaecentral",
     "regionId": 61,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "2603:1040:b04::100/125",
       "2603:1040:b04::108/126",
       "2603:1040:b04::2a0/125",
-      "2603:1040:b04:402::80/125"
+      "2603:1040:b04:402::80/125",
+      "2603:1040:b04:800::1e8/125"
     ],
     "networkFeatures": [
       "API",

@@ -2,7 +2,7 @@
   "name": "Storage.UKSouth",
   "id": "Storage.UKSouth",
   "properties": {
-    "changeNumber": 16,
+    "changeNumber": 17,
     "region": "uksouth",
     "regionId": 27,
     "platform": "Azure",
@@ -20,6 +20,7 @@
       "20.150.40.0/25",
       "20.150.41.0/24",
       "20.150.69.0/24",
+      "20.153.83.0/24",
       "20.157.157.0/24",
       "20.157.182.0/24",
       "20.157.246.0/24",

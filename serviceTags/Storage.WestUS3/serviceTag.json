@@ -2,7 +2,7 @@
   "name": "Storage.WestUS3",
   "id": "Storage.WestUS3",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "westus3",
     "regionId": 79,
     "platform": "Azure",
@@ -21,6 +21,7 @@
       "20.153.13.0/24",
       "20.153.18.0/24",
       "20.153.41.0/24",
+      "20.153.86.0/24",
       "20.157.40.0/24",
       "20.157.145.0/24",
       "20.157.191.0/24",
