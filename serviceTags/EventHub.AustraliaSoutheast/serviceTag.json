@@ -2,7 +2,7 @@
   "name": "EventHub.AustraliaSoutheast",
   "id": "EventHub.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
@@ -13,6 +13,7 @@
       "20.92.2.0/24",
       "40.115.79.2/32",
       "40.127.83.123/32",
+      "48.215.144.128/26",
       "191.239.160.45/32",
       "191.239.160.178/32",
       "2603:1010:101::240/122",

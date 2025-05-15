@@ -2,7 +2,7 @@
   "name": "M365ManagementActivityApi",
   "id": "M365ManagementActivityApi",
   "properties": {
-    "changeNumber": 20,
+    "changeNumber": 21,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -99,6 +99,8 @@
       "52.188.247.120/29",
       "52.231.23.12/31",
       "52.231.148.204/31",
+      "68.210.26.0/31",
+      "68.210.156.114/31",
       "68.211.152.58/31",
       "68.219.174.160/29",
       "68.219.193.120/30",

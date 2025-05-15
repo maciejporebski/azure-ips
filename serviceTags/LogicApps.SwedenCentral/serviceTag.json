@@ -2,7 +2,7 @@
   "name": "LogicApps.SwedenCentral",
   "id": "LogicApps.SwedenCentral",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "swedencentral",
     "regionId": 76,
     "platform": "Azure",
@@ -12,6 +12,7 @@
       "4.225.198.14/32",
       "4.225.198.33/32",
       "4.225.198.41/32",
+      "4.225.198.50/32",
       "4.225.198.80/32",
       "4.225.198.176/32",
       "51.12.75.120/29",

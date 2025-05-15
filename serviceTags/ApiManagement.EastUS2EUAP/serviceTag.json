@@ -2,7 +2,7 @@
   "name": "ApiManagement.EastUS2EUAP",
   "id": "ApiManagement.EastUS2EUAP",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "eastus2euap",
     "regionId": 49,
     "platform": "Azure",
@@ -12,6 +12,7 @@
       "40.74.146.80/31",
       "40.74.147.32/28",
       "52.253.229.253/32",
+      "72.147.64.234/31",
       "2603:1030:40b:400::940/124"
     ],
     "networkFeatures": [

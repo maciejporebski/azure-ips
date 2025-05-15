@@ -2,7 +2,7 @@
   "name": "ApiManagement.NorthEurope",
   "id": "ApiManagement.NorthEurope",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "northeurope",
     "regionId": 17,
     "platform": "Azure",
@@ -16,6 +16,7 @@
       "52.146.139.194/31",
       "104.41.217.243/32",
       "104.41.218.160/32",
+      "134.149.92.118/31",
       "2603:1020:5:402::140/124"
     ],
     "networkFeatures": [

@@ -2,7 +2,7 @@
   "name": "Sql.AustraliaSoutheast",
   "id": "Sql.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 11,
+    "changeNumber": 12,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
@@ -18,6 +18,8 @@
       "20.211.229.0/25",
       "40.127.82.69/32",
       "40.127.83.164/32",
+      "48.215.144.48/29",
+      "48.215.144.224/27",
       "104.46.162.192/27",
       "104.46.163.0/26",
       "104.46.179.160/27",
