@@ -2,14 +2,12 @@
   "name": "AzureConnectors.MexicoCentral",
   "id": "AzureConnectors.MexicoCentral",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 1,
     "region": "mexicocentral",
     "regionId": 53,
     "platform": "Azure",
     "systemService": "AzureConnectors",
     "addressPrefixes": [
-      "68.155.80.0/32",
-      "68.155.80.2/32",
       "158.23.108.64/26",
       "2603:1030:702:2::80/122"
     ],

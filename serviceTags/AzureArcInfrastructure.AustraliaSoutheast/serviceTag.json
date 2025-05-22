@@ -2,7 +2,7 @@
   "name": "AzureArcInfrastructure.AustraliaSoutheast",
   "id": "AzureArcInfrastructure.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 6,
+    "changeNumber": 5,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
@@ -15,8 +15,7 @@
       "104.46.162.2/32",
       "104.46.162.28/30",
       "104.46.163.96/29",
-      "104.46.178.0/30",
-      "2603:1010:207::710/124"
+      "104.46.178.0/30"
     ],
     "networkFeatures": null
   }

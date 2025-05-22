@@ -2,7 +2,7 @@
   "name": "AzureKeyVault.EastAsia",
   "id": "AzureKeyVault.EastAsia",
   "properties": {
-    "changeNumber": 8,
+    "changeNumber": 7,
     "region": "eastasia",
     "regionId": 1,
     "platform": "Azure",
@@ -16,9 +16,7 @@
       "2603:1040:207::108/125",
       "2603:1040:207::110/126",
       "2603:1040:207::2a0/125",
-      "2603:1040:207:402::80/125",
-      "2603:1040:207:800::2e0/125",
-      "2603:1040:207:c00::2e0/125"
+      "2603:1040:207:402::80/125"
     ],
     "networkFeatures": [
       "API",

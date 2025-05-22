@@ -2,7 +2,7 @@
   "name": "PowerBI.ItalyNorth",
   "id": "PowerBI.ItalyNorth",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 1,
     "region": "italynorth",
     "regionId": 93,
     "platform": "Azure",
@@ -13,8 +13,6 @@
       "4.232.98.108/31",
       "4.232.98.160/30",
       "4.232.98.168/29",
-      "172.213.124.48/29",
-      "172.213.125.0/27",
       "2603:1020:1204:2::180/122",
       "2603:1020:1204:2::1c0/123"
     ],

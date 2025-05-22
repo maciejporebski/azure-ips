@@ -2,7 +2,7 @@
   "name": "AzureMonitor.EastAsia",
   "id": "AzureMonitor.EastAsia",
   "properties": {
-    "changeNumber": 22,
+    "changeNumber": 20,
     "region": "eastasia",
     "regionId": 1,
     "platform": "Azure",
@@ -54,9 +54,7 @@
       "2603:1040:207:800::300/121",
       "2603:1040:207:c00::300/121",
       "2a01:111:f100:6000::4134:a688/128",
-      "2a01:111:f100:6000::4134:a6cf/128",
-      "2a01:111:f102:8001::1761:4c10/128",
-      "2a01:111:f102:8001::1761:4f3b/128"
+      "2a01:111:f100:6000::4134:a6cf/128"
     ],
     "networkFeatures": [
       "NSG"

@@ -2,13 +2,12 @@
   "name": "AzureHealthcareAPIs",
   "id": "AzureHealthcareAPIs",
   "properties": {
-    "changeNumber": 24,
+    "changeNumber": 23,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
     "systemService": "AzureAPIForFHIR",
     "addressPrefixes": [
-      "4.199.83.160/27",
       "4.232.28.160/27",
       "9.160.44.192/27",
       "9.205.36.192/27",

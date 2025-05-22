@@ -2,13 +2,12 @@
   "name": "ApiManagement.CentralUS",
   "id": "ApiManagement.CentralUS",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 4,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
     "systemService": "AzureApiManagement",
     "addressPrefixes": [
-      "9.234.25.78/31",
       "13.86.102.66/32",
       "13.89.33.185/32",
       "13.89.170.204/31",

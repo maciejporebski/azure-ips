@@ -2,7 +2,7 @@
   "name": "LogicApps.EastUSSTG",
   "id": "LogicApps.EastUSSTG",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 2,
     "region": "usstagee",
     "regionId": 68,
     "platform": "Azure",
@@ -11,7 +11,6 @@
       "40.67.60.176/28",
       "40.67.60.192/27",
       "40.67.88.80/28",
-      "40.67.92.0/28",
       "2603:1030:104:402::3c0/124",
       "2603:1030:104:402::3e0/123"
     ],

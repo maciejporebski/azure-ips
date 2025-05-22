@@ -2,7 +2,7 @@
   "name": "AzureCloud.brazilse",
   "id": "AzureCloud.brazilse",
   "properties": {
-    "changeNumber": 29,
+    "changeNumber": 28,
     "region": "brazilse",
     "regionId": 77,
     "platform": "Azure",
@@ -44,7 +44,6 @@
       "52.103.22.0/24",
       "52.103.147.0/24",
       "52.106.16.0/24",
-      "52.106.120.0/27",
       "52.108.111.0/24",
       "52.108.112.0/24",
       "52.109.164.0/24",

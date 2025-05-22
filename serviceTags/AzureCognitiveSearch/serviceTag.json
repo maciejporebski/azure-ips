@@ -2,7 +2,7 @@
   "name": "AzureCognitiveSearch",
   "id": "AzureCognitiveSearch",
   "properties": {
-    "changeNumber": 28,
+    "changeNumber": 27,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -172,7 +172,6 @@
       "68.211.1.64/26",
       "68.221.80.192/26",
       "70.153.152.192/26",
-      "70.153.173.192/26",
       "74.7.40.192/26",
       "74.7.176.192/26",
       "102.37.84.192/26",

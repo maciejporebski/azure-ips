@@ -2,7 +2,7 @@
   "name": "AzureCloud.germanyn",
   "id": "AzureCloud.germanyn",
   "properties": {
-    "changeNumber": 32,
+    "changeNumber": 31,
     "region": "germanyn",
     "regionId": 72,
     "platform": "Azure",
@@ -47,7 +47,6 @@
       "52.103.47.0/24",
       "52.103.175.0/24",
       "52.106.134.0/24",
-      "52.106.185.0/27",
       "52.108.76.0/24",
       "52.108.97.0/24",
       "52.109.102.0/23",

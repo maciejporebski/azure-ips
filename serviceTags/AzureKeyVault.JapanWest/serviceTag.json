@@ -2,7 +2,7 @@
   "name": "AzureKeyVault.JapanWest",
   "id": "AzureKeyVault.JapanWest",
   "properties": {
-    "changeNumber": 9,
+    "changeNumber": 8,
     "region": "japanwest",
     "regionId": 25,
     "platform": "Azure",
@@ -17,7 +17,6 @@
       "2603:1040:606::108/126",
       "2603:1040:606::2a0/125",
       "2603:1040:606:402::80/125",
-      "2603:1040:606:800::2e0/125",
       "2603:1040:606:c00::e0/125"
     ],
     "networkFeatures": [

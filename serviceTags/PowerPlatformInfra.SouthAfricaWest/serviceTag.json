@@ -24,7 +24,6 @@
     "networkFeatures": [
       "API",
       "NSG",
-      "UDR",
       "FW"
     ]
   }

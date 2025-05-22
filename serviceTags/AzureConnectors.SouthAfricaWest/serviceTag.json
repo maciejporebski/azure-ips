@@ -2,14 +2,12 @@
   "name": "AzureConnectors.SouthAfricaWest",
   "id": "AzureConnectors.SouthAfricaWest",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 3,
     "region": "southafricawest",
     "regionId": 83,
     "platform": "Azure",
     "systemService": "AzureConnectors",
     "addressPrefixes": [
-      "20.87.176.165/32",
-      "20.87.178.209/32",
       "102.37.64.0/27",
       "102.37.84.128/27",
       "102.37.84.160/28",

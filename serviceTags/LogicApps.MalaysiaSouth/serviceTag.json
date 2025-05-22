@@ -2,7 +2,7 @@
   "name": "LogicApps.MalaysiaSouth",
   "id": "LogicApps.MalaysiaSouth",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 2,
     "region": "malaysiasouth",
     "regionId": 98,
     "platform": "Azure",
@@ -11,7 +11,6 @@
       "20.17.71.80/28",
       "20.17.71.96/27",
       "20.17.192.80/28",
-      "85.211.75.240/28",
       "2603:1040:1503:400::3d0/124",
       "2603:1040:1503:400::3e0/123"
     ],

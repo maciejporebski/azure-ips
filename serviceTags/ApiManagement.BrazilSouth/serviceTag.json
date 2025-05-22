@@ -2,13 +2,12 @@
   "name": "ApiManagement.BrazilSouth",
   "id": "ApiManagement.BrazilSouth",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 3,
     "region": "brazilsouth",
     "regionId": 9,
     "platform": "Azure",
     "systemService": "AzureApiManagement",
     "addressPrefixes": [
-      "74.163.143.250/31",
       "191.233.24.179/32",
       "191.233.203.28/31",
       "191.233.203.240/28",

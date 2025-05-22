@@ -2,7 +2,7 @@
   "name": "AzureKeyVault.SouthCentralUSSTG",
   "id": "AzureKeyVault.SouthCentralUSSTG",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 2,
     "region": "usstagec",
     "regionId": 69,
     "platform": "Azure",
@@ -12,8 +12,7 @@
       "20.45.117.32/29",
       "20.45.117.40/30",
       "2603:1030:302::90/125",
-      "2603:1030:302::98/126",
-      "2603:1030:302:402::180/125"
+      "2603:1030:302::98/126"
     ],
     "networkFeatures": [
       "API",

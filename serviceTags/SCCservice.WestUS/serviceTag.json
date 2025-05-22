@@ -2,7 +2,7 @@
   "name": "SCCservice.WestUS",
   "id": "SCCservice.WestUS",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 2,
     "region": "westus",
     "regionId": 37,
     "platform": "Azure",
@@ -16,7 +16,7 @@
       "52.160.33.57/32",
       "52.160.100.5/32",
       "104.42.149.114/32",
-      "172.185.56.160/27",
+      "172.184.0.160/27",
       "2603:1030:a07:c::480/123"
     ],
     "networkFeatures": null

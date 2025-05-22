@@ -2,7 +2,7 @@
   "name": "AzureBackup.AustraliaSoutheast",
   "id": "AzureBackup.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 2,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
@@ -11,7 +11,6 @@
       "13.77.52.32/27",
       "13.77.52.64/26",
       "104.46.183.64/26",
-      "2603:1010:101:7::680/121",
       "2603:1010:101:402::200/121"
     ],
     "networkFeatures": null

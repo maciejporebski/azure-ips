@@ -2,7 +2,7 @@
   "name": "AzureCloud.southfrance",
   "id": "AzureCloud.southfrance",
   "properties": {
-    "changeNumber": 32,
+    "changeNumber": 31,
     "region": "southfrance",
     "regionId": 20,
     "platform": "Azure",
@@ -51,7 +51,6 @@
       "52.103.39.0/24",
       "52.103.167.0/24",
       "52.106.131.0/24",
-      "52.106.184.224/27",
       "52.108.188.0/24",
       "52.108.222.0/23",
       "52.109.72.0/22",

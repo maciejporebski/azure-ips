@@ -2,7 +2,7 @@
   "name": "AzureKeyVault.MalaysiaSouth",
   "id": "AzureKeyVault.MalaysiaSouth",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 3,
     "region": "malaysiasouth",
     "regionId": 98,
     "platform": "Azure",
@@ -15,8 +15,7 @@
       "2603:1040:1503::520/123",
       "2603:1040:1503:1::1c8/125",
       "2603:1040:1503:2::6a8/125",
-      "2603:1040:1503:2::6b0/126",
-      "2603:1040:1503:400::508/125"
+      "2603:1040:1503:2::6b0/126"
     ],
     "networkFeatures": [
       "API",

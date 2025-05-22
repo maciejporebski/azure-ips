@@ -2,7 +2,7 @@
   "name": "ApiManagement.JapanEast",
   "id": "ApiManagement.JapanEast",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 3,
     "region": "japaneast",
     "regionId": 24,
     "platform": "Azure",
@@ -12,7 +12,6 @@
       "13.78.108.176/28",
       "20.191.167.246/31",
       "52.140.238.179/32",
-      "135.149.50.220/31",
       "2603:1040:407:402::140/124"
     ],
     "networkFeatures": [

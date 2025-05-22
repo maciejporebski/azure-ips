@@ -2,7 +2,7 @@
   "name": "LogicApps.AustraliaCentral2",
   "id": "LogicApps.AustraliaCentral2",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 2,
     "region": "australiacentral2",
     "regionId": 59,
     "platform": "Azure",
@@ -11,7 +11,6 @@
       "4.198.41.112/28",
       "20.36.117.96/27",
       "20.36.117.128/28",
-      "20.167.177.16/28",
       "2603:1010:404:402::3c0/124",
       "2603:1010:404:402::3e0/123"
     ],

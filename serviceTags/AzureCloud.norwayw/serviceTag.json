@@ -2,7 +2,7 @@
   "name": "AzureCloud.norwayw",
   "id": "AzureCloud.norwayw",
   "properties": {
-    "changeNumber": 31,
+    "changeNumber": 30,
     "region": "norwayw",
     "regionId": 74,
     "platform": "Azure",
@@ -44,7 +44,6 @@
       "52.103.52.0/24",
       "52.103.180.0/24",
       "52.106.133.0/24",
-      "52.106.185.128/27",
       "52.108.177.0/24",
       "52.108.198.0/24",
       "52.109.144.0/23",

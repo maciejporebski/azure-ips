@@ -2,7 +2,7 @@
   "name": "AzureMachineLearning",
   "id": "AzureMachineLearning",
   "properties": {
-    "changeNumber": 48,
+    "changeNumber": 47,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -10,7 +10,6 @@
     "addressPrefixes": [
       "4.171.27.64/27",
       "4.171.27.160/28",
-      "4.199.83.64/27",
       "4.232.25.0/27",
       "4.232.45.128/27",
       "9.160.41.0/27",
