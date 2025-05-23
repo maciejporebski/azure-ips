@@ -20,8 +20,8 @@
       "2603:1040:b04:800::70/124"
     ],
     "networkFeatures": [
-      "NSG",
-      "API"
+      "API",
+      "NSG"
     ]
   }
 }

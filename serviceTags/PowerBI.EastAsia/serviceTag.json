@@ -2,7 +2,7 @@
   "name": "PowerBI.EastAsia",
   "id": "PowerBI.EastAsia",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "eastasia",
     "regionId": 1,
     "platform": "Azure",
@@ -19,6 +19,9 @@
       "23.97.92.96/27",
       "57.158.5.128/27",
       "57.158.17.64/27",
+      "57.158.61.248/29",
+      "57.158.62.64/26",
+      "57.158.62.128/25",
       "2603:1040:207::620/123",
       "2603:1040:207::640/122"
     ],

@@ -2,7 +2,7 @@
   "name": "EventHub.NorthEurope",
   "id": "EventHub.NorthEurope",
   "properties": {
-    "changeNumber": 7,
+    "changeNumber": 8,
     "region": "northeurope",
     "regionId": 17,
     "platform": "Azure",
@@ -26,6 +26,7 @@
       "52.138.226.0/26",
       "52.169.18.8/32",
       "104.41.201.10/32",
+      "134.149.88.0/23",
       "168.61.92.197/32",
       "191.238.99.131/32",
       "2603:1020:5:1::240/122",

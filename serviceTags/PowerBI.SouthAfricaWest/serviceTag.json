@@ -2,7 +2,7 @@
   "name": "PowerBI.SouthAfricaWest",
   "id": "PowerBI.SouthAfricaWest",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "southafricawest",
     "regionId": 83,
     "platform": "Azure",
@@ -14,6 +14,7 @@
       "102.133.56.98/31",
       "102.133.56.100/30",
       "102.133.56.104/29",
+      "172.209.83.216/29",
       "2603:1000:4::620/123",
       "2603:1000:4::640/122"
     ],

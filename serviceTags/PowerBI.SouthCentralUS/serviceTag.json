@@ -2,7 +2,7 @@
   "name": "PowerBI.SouthCentralUS",
   "id": "PowerBI.SouthCentralUS",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "southcentralus",
     "regionId": 35,
     "platform": "Azure",
@@ -25,6 +25,7 @@
       "20.165.94.192/27",
       "40.119.8.76/30",
       "40.119.11.64/26",
+      "48.221.137.0/26",
       "172.215.129.128/26",
       "172.215.132.176/28",
       "2603:1030:807::/122",

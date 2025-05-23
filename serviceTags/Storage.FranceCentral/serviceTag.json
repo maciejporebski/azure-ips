@@ -2,7 +2,7 @@
   "name": "Storage.FranceCentral",
   "id": "Storage.FranceCentral",
   "properties": {
-    "changeNumber": 12,
+    "changeNumber": 13,
     "region": "centralfrance",
     "regionId": 19,
     "platform": "Azure",
@@ -22,6 +22,7 @@
       "52.239.194.0/24",
       "52.239.241.0/24",
       "57.150.40.0/23",
+      "135.130.46.0/23",
       "2603:1020:806::/48"
     ],
     "networkFeatures": [

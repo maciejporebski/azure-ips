@@ -2,17 +2,13 @@
   "name": "WindowsVirtualDesktop.SwitzerlandNorth",
   "id": "WindowsVirtualDesktop.SwitzerlandNorth",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "switzerlandn",
     "regionId": 66,
     "platform": "Azure",
     "systemService": "WindowsVirtualDesktop",
     "addressPrefixes": [
       "40.64.147.32/28",
-      "51.107.69.35/32",
-      "51.107.85.67/32",
-      "51.107.85.110/32",
-      "51.107.86.99/32",
       "2603:1061:2010:28::/117"
     ],
     "networkFeatures": null

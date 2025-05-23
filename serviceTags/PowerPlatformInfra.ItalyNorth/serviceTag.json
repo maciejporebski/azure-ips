@@ -2,7 +2,7 @@
   "name": "PowerPlatformInfra.ItalyNorth",
   "id": "PowerPlatformInfra.ItalyNorth",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "italynorth",
     "regionId": 93,
     "platform": "Azure",
@@ -13,11 +13,13 @@
       "4.232.50.192/26",
       "4.232.51.128/30",
       "4.232.100.30/31",
+      "172.213.127.64/26",
       "2603:1061:2002:a800::/57"
     ],
     "networkFeatures": [
       "API",
       "NSG",
+      "UDR",
       "FW"
     ]
   }

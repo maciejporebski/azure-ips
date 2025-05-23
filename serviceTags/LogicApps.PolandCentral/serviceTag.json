@@ -2,7 +2,7 @@
   "name": "LogicApps.PolandCentral",
   "id": "LogicApps.PolandCentral",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "polandcentral",
     "regionId": 52,
     "platform": "Azure",
@@ -17,6 +17,7 @@
       "74.248.81.204/32",
       "74.248.81.211/32",
       "74.248.81.229/32",
+      "74.248.81.234/32",
       "74.248.81.255/32",
       "74.248.82.58/32",
       "74.248.82.188/31",

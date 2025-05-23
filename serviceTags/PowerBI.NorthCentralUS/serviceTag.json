@@ -2,7 +2,7 @@
   "name": "PowerBI.NorthCentralUS",
   "id": "PowerBI.NorthCentralUS",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "northcentralus",
     "regionId": 34,
     "platform": "Azure",
@@ -17,6 +17,8 @@
       "40.80.188.64/27",
       "40.80.188.128/25",
       "40.80.189.0/24",
+      "130.213.49.176/28",
+      "130.213.49.192/27",
       "135.232.168.0/27",
       "172.183.7.208/28",
       "2603:1030:608::620/123",

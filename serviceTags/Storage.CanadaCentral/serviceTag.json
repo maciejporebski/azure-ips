@@ -2,7 +2,7 @@
   "name": "Storage.CanadaCentral",
   "id": "Storage.CanadaCentral",
   "properties": {
-    "changeNumber": 13,
+    "changeNumber": 14,
     "region": "canadacentral",
     "regionId": 11,
     "platform": "Azure",
@@ -32,6 +32,7 @@
       "52.239.148.64/26",
       "52.239.189.0/24",
       "57.150.54.0/23",
+      "135.130.52.0/23",
       "2603:1030:f08::/48"
     ],
     "networkFeatures": [

@@ -2,12 +2,13 @@
   "name": "GatewayManager",
   "id": "GatewayManager",
   "properties": {
-    "changeNumber": 36,
+    "changeNumber": 37,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
     "systemService": "GatewayManager",
     "addressPrefixes": [
+      "4.199.82.192/26",
       "4.232.24.64/26",
       "9.160.40.64/26",
       "9.205.32.64/26",

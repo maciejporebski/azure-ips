@@ -2,12 +2,13 @@
   "name": "AzureSignalR.AustraliaCentral",
   "id": "AzureSignalR.AustraliaCentral",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "australiacentral",
     "regionId": 58,
     "platform": "Azure",
     "systemService": "AzureSignalR",
     "addressPrefixes": [
+      "4.199.172.64/26",
       "2603:1010:304:2::100/120"
     ],
     "networkFeatures": null
