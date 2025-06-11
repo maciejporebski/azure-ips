@@ -2,7 +2,7 @@
   "name": "AzureCloud.centralindia",
   "id": "AzureCloud.centralindia",
   "properties": {
-    "changeNumber": 102,
+    "changeNumber": 103,
     "region": "centralindia",
     "regionId": 21,
     "platform": "Azure",
@@ -21,7 +21,8 @@
       "13.105.98.32/28",
       "13.105.98.64/27",
       "20.20.84.0/25",
-      "20.20.84.128/30",
+      "20.20.84.128/28",
+      "20.20.84.144/30",
       "20.33.9.0/24",
       "20.33.19.0/24",
       "20.33.28.0/24",

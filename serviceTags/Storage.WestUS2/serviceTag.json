@@ -2,7 +2,7 @@
   "name": "Storage.WestUS2",
   "id": "Storage.WestUS2",
   "properties": {
-    "changeNumber": 25,
+    "changeNumber": 26,
     "region": "westus2",
     "regionId": 38,
     "platform": "Azure",
@@ -55,6 +55,7 @@
       "57.150.234.0/23",
       "135.130.16.0/23",
       "135.130.48.0/23",
+      "135.130.78.0/23",
       "2603:1030:d01::/48"
     ],
     "networkFeatures": [
