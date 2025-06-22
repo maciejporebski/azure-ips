@@ -2,7 +2,7 @@
   "name": "Storage.SouthCentralUS",
   "id": "Storage.SouthCentralUS",
   "properties": {
-    "changeNumber": 27,
+    "changeNumber": 28,
     "region": "southcentralus",
     "regionId": 35,
     "platform": "Azure",
@@ -38,6 +38,7 @@
       "20.153.68.0/24",
       "20.153.69.0/25",
       "20.153.79.0/24",
+      "20.153.95.0/24",
       "20.157.43.0/24",
       "20.157.54.0/24",
       "20.157.134.0/24",

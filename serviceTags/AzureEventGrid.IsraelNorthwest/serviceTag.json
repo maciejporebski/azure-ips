@@ -1,0 +1,16 @@
+{
+  "name": "AzureEventGrid.IsraelNorthwest",
+  "id": "AzureEventGrid.IsraelNorthwest",
+  "properties": {
+    "changeNumber": 1,
+    "region": "israelnorthwest",
+    "regionId": 86,
+    "platform": "Azure",
+    "systemService": "AzureEventGrid",
+    "addressPrefixes": [
+      "20.217.249.128/25",
+      "2603:1040:1702::280/121"
+    ],
+    "networkFeatures": null
+  }
+}

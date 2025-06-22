@@ -2,7 +2,7 @@
   "name": "PowerBI.NorthEurope",
   "id": "PowerBI.NorthEurope",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "northeurope",
     "regionId": 17,
     "platform": "Azure",
@@ -15,6 +15,7 @@
       "20.38.84.128/25",
       "20.38.85.0/25",
       "20.38.86.0/24",
+      "48.222.108.0/26",
       "52.146.140.128/25",
       "74.178.76.224/28",
       "134.149.92.128/26",

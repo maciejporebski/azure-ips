@@ -2,7 +2,7 @@
   "name": "AzureCloud.spaincentral",
   "id": "AzureCloud.spaincentral",
   "properties": {
-    "changeNumber": 29,
+    "changeNumber": 30,
     "region": "spaincentral",
     "regionId": 88,
     "platform": "Azure",
@@ -80,6 +80,7 @@
       "2603:1063:232::/56",
       "2603:1063:430::/56",
       "2603:1063:621::/56",
+      "2603:1063:724::/56",
       "2603:1063:2206:44::/64",
       "2a01:111:f403:c204::/64",
       "2a01:111:f403:ca20::/62",

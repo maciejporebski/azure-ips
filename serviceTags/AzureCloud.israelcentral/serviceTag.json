@@ -2,7 +2,7 @@
   "name": "AzureCloud.israelcentral",
   "id": "AzureCloud.israelcentral",
   "properties": {
-    "changeNumber": 31,
+    "changeNumber": 32,
     "region": "israelcentral",
     "regionId": 85,
     "platform": "Azure",
@@ -96,6 +96,7 @@
       "2603:1063:22d::/56",
       "2603:1063:42a::/56",
       "2603:1063:60e::/56",
+      "2603:1063:711::/56",
       "2603:1063:2202:50::/64",
       "2a01:111:f403:c20d::/64",
       "2a01:111:f403:c20e::/64",

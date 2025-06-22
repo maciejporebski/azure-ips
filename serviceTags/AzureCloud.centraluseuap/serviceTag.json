@@ -2,7 +2,7 @@
   "name": "AzureCloud.centraluseuap",
   "id": "AzureCloud.centraluseuap",
   "properties": {
-    "changeNumber": 75,
+    "changeNumber": 76,
     "region": "centraluseuap",
     "regionId": 48,
     "platform": "Azure",
@@ -26,6 +26,7 @@
       "20.135.68.0/23",
       "20.150.23.0/24",
       "20.150.47.0/25",
+      "20.152.64.0/23",
       "20.153.69.192/26",
       "20.153.77.0/24",
       "20.157.96.0/24",

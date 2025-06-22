@@ -1,0 +1,23 @@
+{
+  "name": "DataFactory.IsraelNorthwest",
+  "id": "DataFactory.IsraelNorthwest",
+  "properties": {
+    "changeNumber": 1,
+    "region": "israelnorthwest",
+    "regionId": 86,
+    "platform": "Azure",
+    "systemService": "DataFactory",
+    "addressPrefixes": [
+      "51.4.134.0/23",
+      "51.4.144.80/28",
+      "51.4.144.96/27",
+      "51.4.162.208/28",
+      "2603:1040:1702:2::280/121",
+      "2603:1040:1702:400::320/124"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG"
+    ]
+  }
+}

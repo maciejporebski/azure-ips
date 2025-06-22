@@ -2,7 +2,7 @@
   "name": "Storage.WestEurope",
   "id": "Storage.WestEurope",
   "properties": {
-    "changeNumber": 35,
+    "changeNumber": 36,
     "region": "westeurope",
     "regionId": 18,
     "platform": "Azure",
@@ -39,6 +39,7 @@
       "20.150.122.0/24",
       "20.153.4.0/24",
       "20.153.31.0/24",
+      "20.153.97.0/24",
       "20.157.33.0/24",
       "20.157.146.0/24",
       "20.157.158.0/24",

@@ -1,0 +1,16 @@
+{
+  "name": "AzureResourceManager.IsraelNorthwest",
+  "id": "AzureResourceManager.IsraelNorthwest",
+  "properties": {
+    "changeNumber": 1,
+    "region": "israelnorthwest",
+    "regionId": 86,
+    "platform": "Azure",
+    "systemService": "AzureResourceManager",
+    "addressPrefixes": [
+      "51.4.128.0/23",
+      "2603:1040:1702:1::300/120"
+    ],
+    "networkFeatures": null
+  }
+}

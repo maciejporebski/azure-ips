@@ -2,7 +2,7 @@
   "name": "AzureCloud.uaecentral",
   "id": "AzureCloud.uaecentral",
   "properties": {
-    "changeNumber": 37,
+    "changeNumber": 38,
     "region": "uaecentral",
     "regionId": 61,
     "platform": "Azure",
@@ -90,6 +90,7 @@
       "2603:1063:21c::/55",
       "2603:1063:41b::/56",
       "2603:1063:626::/56",
+      "2603:1063:729::/56",
       "2603:1063:2202:24::/64",
       "2a01:111:f403:c40b::/64",
       "2a01:111:f403:cc29::/64",

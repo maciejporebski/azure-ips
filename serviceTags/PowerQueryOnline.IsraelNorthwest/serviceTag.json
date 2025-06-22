@@ -1,0 +1,16 @@
+{
+  "name": "PowerQueryOnline.IsraelNorthwest",
+  "id": "PowerQueryOnline.IsraelNorthwest",
+  "properties": {
+    "changeNumber": 1,
+    "region": "israelnorthwest",
+    "regionId": 86,
+    "platform": "Azure",
+    "systemService": "PowerQueryOnline",
+    "addressPrefixes": [
+      "20.217.248.40/29",
+      "2603:1040:1702::1c0/123"
+    ],
+    "networkFeatures": null
+  }
+}

@@ -2,7 +2,7 @@
   "name": "AzureResourceManager",
   "id": "AzureResourceManager",
   "properties": {
-    "changeNumber": 52,
+    "changeNumber": 53,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -181,7 +181,6 @@
       "52.139.104.0/23",
       "52.146.134.0/23",
       "52.147.96.0/24",
-      "52.148.174.212/32",
       "52.150.158.0/23",
       "52.162.110.224/28",
       "52.172.114.0/23",
