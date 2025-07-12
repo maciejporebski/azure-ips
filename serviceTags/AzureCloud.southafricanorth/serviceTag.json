@@ -2,7 +2,7 @@
   "name": "AzureCloud.southafricanorth",
   "id": "AzureCloud.southafricanorth",
   "properties": {
-    "changeNumber": 59,
+    "changeNumber": 60,
     "region": "southafricanorth",
     "regionId": 82,
     "platform": "Azure",
@@ -113,6 +113,7 @@
       "2603:1000:100::/47",
       "2603:1000:103::/48",
       "2603:1000:104::/47",
+      "2603:1000:106::/48",
       "2603:1006:1400::/48",
       "2603:1006:1500:4::/64",
       "2603:1006:2000::/59",

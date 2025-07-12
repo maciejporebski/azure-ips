@@ -2,7 +2,7 @@
   "name": "AzureCloud.australiacentral",
   "id": "AzureCloud.australiacentral",
   "properties": {
-    "changeNumber": 34,
+    "changeNumber": 35,
     "region": "australiacentral",
     "regionId": 58,
     "platform": "Azure",
@@ -53,6 +53,7 @@
       "2603:1010:300::/47",
       "2603:1010:303::/48",
       "2603:1010:304::/47",
+      "2603:1010:306::/48",
       "2603:1016:1400:20::/59",
       "2603:1016:2400::/48",
       "2603:1016:2500:4::/64",

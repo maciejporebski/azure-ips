@@ -2,7 +2,7 @@
   "name": "AzureCloud.israelnorthwest",
   "id": "AzureCloud.israelnorthwest",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "israelnorthwest",
     "regionId": 86,
     "platform": "Azure",
@@ -36,6 +36,7 @@
       "2603:1040:1701::/48",
       "2603:1040:1702::/47",
       "2603:1040:1704::/48",
+      "2603:1040:1705::/48",
       "2603:1046:a00:1c::/64",
       "2603:1046:2000:200::/59",
       "2603:1047:1:280::/59",

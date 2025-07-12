@@ -2,7 +2,7 @@
   "name": "PowerBI.AustraliaEast",
   "id": "PowerBI.AustraliaEast",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "australiaeast",
     "regionId": 3,
     "platform": "Azure",
@@ -16,6 +16,7 @@
       "20.70.221.0/28",
       "20.70.221.224/27",
       "20.213.198.0/26",
+      "51.56.96.224/27",
       "68.218.123.134/31",
       "68.218.134.44/30",
       "2603:1010:6::/122",

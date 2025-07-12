@@ -2,7 +2,7 @@
   "name": "AzureCloud.eastasia",
   "id": "AzureCloud.eastasia",
   "properties": {
-    "changeNumber": 65,
+    "changeNumber": 66,
     "region": "eastasia",
     "regionId": 1,
     "platform": "Azure",
@@ -197,7 +197,7 @@
       "2603:1040:204::/48",
       "2603:1040:206::/48",
       "2603:1040:207::/48",
-      "2603:1040:208::/48",
+      "2603:1040:208::/47",
       "2603:1046:a00:1e::/63",
       "2603:1046:a00:20::/64",
       "2603:1046:1401::/48",

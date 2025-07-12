@@ -2,7 +2,7 @@
   "name": "AzureCloud.southindia",
   "id": "AzureCloud.southindia",
   "properties": {
-    "changeNumber": 49,
+    "changeNumber": 50,
     "region": "southindia",
     "regionId": 22,
     "platform": "Azure",
@@ -99,6 +99,7 @@
       "2603:1040:c00::/46",
       "2603:1040:c05::/48",
       "2603:1040:c06::/47",
+      "2603:1040:c08::/48",
       "2603:1046:a00:1a::/63",
       "2603:1046:1407::/48",
       "2603:1046:1500:4::/64",

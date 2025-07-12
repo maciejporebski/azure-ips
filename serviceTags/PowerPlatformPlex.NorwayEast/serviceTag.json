@@ -2,7 +2,7 @@
   "name": "PowerPlatformPlex.NorwayEast",
   "id": "PowerPlatformPlex.NorwayEast",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "norwaye",
     "regionId": 63,
     "platform": "Azure",
@@ -15,6 +15,8 @@
       "20.100.5.16/30",
       "20.100.129.0/28",
       "74.240.192.32/29",
+      "131.163.105.64/26",
+      "131.163.105.128/26",
       "2603:1061:2004:1000::/57"
     ],
     "networkFeatures": [

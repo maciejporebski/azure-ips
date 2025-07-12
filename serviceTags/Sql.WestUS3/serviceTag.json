@@ -2,12 +2,14 @@
   "name": "Sql.WestUS3",
   "id": "Sql.WestUS3",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "westus3",
     "regionId": 79,
     "platform": "Azure",
     "systemService": "AzureSQL",
     "addressPrefixes": [
+      "4.236.112.48/29",
+      "4.236.112.224/27",
       "20.14.125.128/25",
       "20.150.168.0/27",
       "20.150.168.32/29",

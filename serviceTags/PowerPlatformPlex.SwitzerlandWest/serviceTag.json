@@ -2,12 +2,14 @@
   "name": "PowerPlatformPlex.SwitzerlandWest",
   "id": "PowerPlatformPlex.SwitzerlandWest",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "switzerlandw",
     "regionId": 67,
     "platform": "Azure",
     "systemService": "PowerPlatformPlex",
     "addressPrefixes": [
+      "4.226.185.192/26",
+      "4.226.190.128/26",
       "20.199.200.124/30",
       "20.199.201.48/30",
       "20.199.201.76/30",

@@ -2,7 +2,7 @@
   "name": "DataFactory.AustriaEast",
   "id": "DataFactory.AustriaEast",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "austriaeast",
     "regionId": 95,
     "platform": "Azure",
@@ -15,6 +15,8 @@
       "68.210.194.224/28",
       "68.210.210.224/28",
       "2603:1020:104:3::80/121",
+      "2603:1020:104:6::340/124",
+      "2603:1020:104:7::1a8/125",
       "2603:1020:104:403::50/124",
       "2603:1020:104:800::320/124",
       "2603:1020:104:c00::50/124"

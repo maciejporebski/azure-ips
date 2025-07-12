@@ -2,7 +2,7 @@
   "name": "AzureCloud.japaneast",
   "id": "AzureCloud.japaneast",
   "properties": {
-    "changeNumber": 101,
+    "changeNumber": 102,
     "region": "japaneast",
     "regionId": 24,
     "platform": "Azure",
@@ -201,7 +201,7 @@
       "2603:1040:404::/48",
       "2603:1040:406::/48",
       "2603:1040:407::/48",
-      "2603:1040:408::/48",
+      "2603:1040:408::/47",
       "2603:1046:a00:f::/64",
       "2603:1046:a00:10::/63",
       "2603:1046:a00:26::/64",

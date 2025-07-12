@@ -2,7 +2,7 @@
   "name": "AzureCloud.norwayw",
   "id": "AzureCloud.norwayw",
   "properties": {
-    "changeNumber": 32,
+    "changeNumber": 33,
     "region": "norwayw",
     "regionId": 74,
     "platform": "Azure",
@@ -60,6 +60,7 @@
       "2603:1020:f00::/47",
       "2603:1020:f03::/48",
       "2603:1020:f04::/47",
+      "2603:1020:f06::/48",
       "2603:1026:900:33::/64",
       "2603:1026:900:34::/63",
       "2603:1026:2409::/48",

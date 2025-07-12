@@ -2,7 +2,7 @@
   "name": "AzureCloud.southafricawest",
   "id": "AzureCloud.southafricawest",
   "properties": {
-    "changeNumber": 36,
+    "changeNumber": 37,
     "region": "southafricawest",
     "regionId": 83,
     "platform": "Azure",
@@ -63,6 +63,7 @@
       "2603:1000::/47",
       "2603:1000:3::/48",
       "2603:1000:4::/47",
+      "2603:1000:6::/48",
       "2603:1006:1401::/48",
       "2603:1006:1500::/64",
       "2603:1006:2000:20::/59",

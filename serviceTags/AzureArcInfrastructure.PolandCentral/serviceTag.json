@@ -2,7 +2,7 @@
   "name": "AzureArcInfrastructure.PolandCentral",
   "id": "AzureArcInfrastructure.PolandCentral",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "polandcentral",
     "regionId": 52,
     "platform": "Azure",
@@ -12,6 +12,8 @@
       "20.215.170.104/30",
       "20.215.174.6/31",
       "20.215.174.24/29",
+      "134.112.73.70/32",
+      "134.112.73.72/30",
       "2603:1020:1302:4::2ac/127",
       "2603:1020:1302:4::2ae/128"
     ],

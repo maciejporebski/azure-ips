@@ -2,12 +2,13 @@
   "name": "PowerPlatformPlex.CentralUS",
   "id": "PowerPlatformPlex.CentralUS",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
     "systemService": "PowerPlatformPlex",
     "addressPrefixes": [
+      "9.234.68.0/25",
       "13.86.98.128/26",
       "172.212.240.192/27",
       "172.212.240.224/28",

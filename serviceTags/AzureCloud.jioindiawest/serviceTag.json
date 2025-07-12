@@ -2,7 +2,7 @@
   "name": "AzureCloud.jioindiawest",
   "id": "AzureCloud.jioindiawest",
   "properties": {
-    "changeNumber": 21,
+    "changeNumber": 22,
     "region": "jioindiawest",
     "regionId": 65,
     "platform": "Azure",
@@ -47,7 +47,7 @@
       "135.235.0.0/17",
       "2603:1040:d00::/47",
       "2603:1040:d03::/48",
-      "2603:1040:d04::/48",
+      "2603:1040:d04::/47",
       "2603:1046:a00:46::/63",
       "2603:1046:a00:48::/64",
       "2603:1046:1500:10::/64",

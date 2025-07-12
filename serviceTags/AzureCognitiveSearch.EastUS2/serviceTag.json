@@ -2,7 +2,7 @@
   "name": "AzureCognitiveSearch.EastUS2",
   "id": "AzureCognitiveSearch.EastUS2",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "eastus2",
     "regionId": 33,
     "platform": "Azure",
@@ -13,7 +13,9 @@
       "20.44.76.53/32",
       "20.44.76.61/32",
       "20.44.76.86/32",
-      "2603:1030:40c:1::180/121"
+      "172.193.3.128/25",
+      "2603:1030:40c:1::180/121",
+      "2603:1030:40c:20::200/122"
     ],
     "networkFeatures": null
   }

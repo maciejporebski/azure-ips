@@ -2,13 +2,14 @@
   "name": "PowerBI.CentralUS",
   "id": "PowerBI.CentralUS",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
     "systemService": "PowerBI",
     "addressPrefixes": [
       "9.234.62.208/28",
+      "9.234.69.192/27",
       "20.37.156.200/30",
       "20.37.156.240/28",
       "20.37.157.0/29",
