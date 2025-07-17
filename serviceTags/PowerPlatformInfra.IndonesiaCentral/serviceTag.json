@@ -2,7 +2,7 @@
   "name": "PowerPlatformInfra.IndonesiaCentral",
   "id": "PowerPlatformInfra.IndonesiaCentral",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "indonesiacentral",
     "regionId": 6,
     "platform": "Azure",
@@ -13,7 +13,8 @@
       "70.153.65.224/28",
       "70.153.65.240/31",
       "70.153.66.64/26",
-      "70.153.66.128/26"
+      "70.153.66.128/26",
+      "2603:1061:2002:b800::/57"
     ],
     "networkFeatures": [
       "API",

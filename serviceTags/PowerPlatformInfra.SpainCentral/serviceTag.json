@@ -1,0 +1,20 @@
+{
+  "name": "PowerPlatformInfra.SpainCentral",
+  "id": "PowerPlatformInfra.SpainCentral",
+  "properties": {
+    "changeNumber": 1,
+    "region": "spaincentral",
+    "regionId": 88,
+    "platform": "Azure",
+    "systemService": "PowerPlatformInfra",
+    "addressPrefixes": [
+      "2603:1061:2002:c000::/57"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}

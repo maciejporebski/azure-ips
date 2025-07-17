@@ -2,7 +2,7 @@
   "name": "AzureCloud.newzealandnorth",
   "id": "AzureCloud.newzealandnorth",
   "properties": {
-    "changeNumber": 14,
+    "changeNumber": 15,
     "region": "newzealandnorth",
     "regionId": 91,
     "platform": "Azure",
@@ -76,6 +76,8 @@
       "2603:1061:100e:8e::/64",
       "2603:1061:1314:1000::/54",
       "2603:1061:1739::/48",
+      "2603:1061:2002:b000::/57",
+      "2603:1061:2004:b800::/57",
       "2603:1061:2010:39::/64",
       "2603:1061:2011:39::/64",
       "2603:1063:4a::/55",

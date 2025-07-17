@@ -2,7 +2,7 @@
   "name": "PowerPlatformInfra.NewZealandNorth",
   "id": "PowerPlatformInfra.NewZealandNorth",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "newzealandnorth",
     "regionId": 91,
     "platform": "Azure",
@@ -12,7 +12,8 @@
       "172.204.242.16/28",
       "172.204.242.32/29",
       "172.204.242.40/30",
-      "172.204.243.128/25"
+      "172.204.243.128/25",
+      "2603:1061:2002:b000::/57"
     ],
     "networkFeatures": [
       "API",
