@@ -2,7 +2,7 @@
   "name": "AzureCloud.malaysiasouth",
   "id": "AzureCloud.malaysiasouth",
   "properties": {
-    "changeNumber": 26,
+    "changeNumber": 27,
     "region": "malaysiasouth",
     "regionId": 98,
     "platform": "Azure",
@@ -65,6 +65,7 @@
       "2603:1040:1506::/48",
       "2603:1046:a00:6::/64",
       "2603:1046:a00:5d::/64",
+      "2603:1046:140f::/48",
       "2603:1046:1500:44::/64",
       "2603:1046:2000:220::/59",
       "2603:1061:100a::/58",

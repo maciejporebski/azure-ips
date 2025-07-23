@@ -2,7 +2,7 @@
   "name": "AzureCloud.swedencentral",
   "id": "AzureCloud.swedencentral",
   "properties": {
-    "changeNumber": 52,
+    "changeNumber": 53,
     "region": "swedencentral",
     "regionId": 76,
     "platform": "Azure",
@@ -85,6 +85,7 @@
       "52.106.129.0/24",
       "52.106.186.32/27",
       "52.108.134.0/24",
+      "52.109.166.0/24",
       "52.111.209.0/24",
       "52.112.120.0/24",
       "52.112.122.0/24",
