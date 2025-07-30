@@ -2,7 +2,7 @@
   "name": "EventHub.SouthCentralUS",
   "id": "EventHub.SouthCentralUS",
   "properties": {
-    "changeNumber": 10,
+    "changeNumber": 11,
     "region": "southcentralus",
     "regionId": 35,
     "platform": "Azure",
@@ -16,7 +16,6 @@
       "20.49.95.128/26",
       "20.97.32.192/26",
       "40.124.65.64/26",
-      "48.221.168.128/26",
       "104.214.18.128/27",
       "2603:1030:807:1::240/122",
       "2603:1030:807:7::200/119",

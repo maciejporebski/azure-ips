@@ -2,15 +2,13 @@
   "name": "ServiceBus.WestUS3",
   "id": "ServiceBus.WestUS3",
   "properties": {
-    "changeNumber": 8,
+    "changeNumber": 9,
     "region": "westus3",
     "regionId": 79,
     "platform": "Azure",
     "systemService": "AzureServiceBus",
     "addressPrefixes": [
       "4.149.20.0/24",
-      "4.236.112.16/29",
-      "4.236.112.32/28",
       "20.150.129.0/25",
       "20.150.160.216/29",
       "20.150.170.8/29",

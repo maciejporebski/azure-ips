@@ -2,7 +2,7 @@
   "name": "AzureCloud.northcentralus",
   "id": "AzureCloud.northcentralus",
   "properties": {
-    "changeNumber": 93,
+    "changeNumber": 94,
     "region": "northcentralus",
     "regionId": 34,
     "platform": "Azure",
@@ -132,7 +132,8 @@
       "40.120.190.0/25",
       "40.120.190.128/27",
       "40.120.190.160/29",
-      "40.120.190.168/31",
+      "40.120.190.168/30",
+      "40.120.190.172/31",
       "40.126.7.0/24",
       "40.126.28.0/24",
       "48.208.11.0/24",

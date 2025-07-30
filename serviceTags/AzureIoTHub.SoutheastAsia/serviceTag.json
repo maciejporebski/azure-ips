@@ -2,7 +2,7 @@
   "name": "AzureIoTHub.SoutheastAsia",
   "id": "AzureIoTHub.SoutheastAsia",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "southeastasia",
     "regionId": 2,
     "platform": "Azure",
@@ -10,7 +10,6 @@
     "addressPrefixes": [
       "13.67.10.224/27",
       "13.76.83.155/32",
-      "13.76.217.46/32",
       "23.98.86.0/27",
       "23.98.104.192/27",
       "23.98.106.0/25",

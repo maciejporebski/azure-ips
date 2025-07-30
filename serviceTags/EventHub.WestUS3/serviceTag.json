@@ -2,13 +2,12 @@
   "name": "EventHub.WestUS3",
   "id": "EventHub.WestUS3",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "westus3",
     "regionId": 79,
     "platform": "Azure",
     "systemService": "AzureEventHub",
     "addressPrefixes": [
-      "4.236.112.128/26",
       "20.150.160.224/27",
       "20.150.170.160/27",
       "20.150.175.64/26",

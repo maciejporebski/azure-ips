@@ -2,7 +2,7 @@
   "name": "AzureDataExplorerManagement",
   "id": "AzureDataExplorerManagement",
   "properties": {
-    "changeNumber": 48,
+    "changeNumber": 49,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -200,6 +200,7 @@
       "2603:1020:206:402::150/124",
       "2603:1020:206:403::190/124",
       "2603:1020:305:402::150/124",
+      "2603:1020:406::9/128",
       "2603:1020:605:1::380/121",
       "2603:1020:605:402::150/124",
       "2603:1020:705::600/121",
