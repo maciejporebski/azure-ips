@@ -2,7 +2,7 @@
   "name": "AzureFrontDoor.Backend",
   "id": "AzureFrontDoor.Backend",
   "properties": {
-    "changeNumber": 19,
+    "changeNumber": 20,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -67,7 +67,6 @@
       "51.120.40.104/29",
       "51.120.224.104/29",
       "51.137.160.112/29",
-      "51.143.192.104/29",
       "52.136.48.104/29",
       "52.140.104.104/29",
       "52.150.136.120/29",

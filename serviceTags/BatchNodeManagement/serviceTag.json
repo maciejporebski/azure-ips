@@ -2,7 +2,7 @@
   "name": "BatchNodeManagement",
   "id": "BatchNodeManagement",
   "properties": {
-    "changeNumber": 30,
+    "changeNumber": 31,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -221,7 +221,6 @@
       "51.141.8.61/32",
       "51.141.8.62/32",
       "51.141.8.64/32",
-      "51.143.193.160/27",
       "52.136.49.192/27",
       "52.136.143.192/31",
       "52.137.105.46/32",

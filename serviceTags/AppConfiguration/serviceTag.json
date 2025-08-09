@@ -2,7 +2,7 @@
   "name": "AppConfiguration",
   "id": "AppConfiguration",
   "properties": {
-    "changeNumber": 70,
+    "changeNumber": 71,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -373,7 +373,6 @@
       "51.140.212.96/29",
       "51.140.212.192/28",
       "51.140.212.208/29",
-      "51.143.195.64/26",
       "51.143.208.64/26",
       "52.136.51.96/28",
       "52.136.52.128/26",
