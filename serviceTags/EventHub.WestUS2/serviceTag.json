@@ -2,7 +2,7 @@
   "name": "EventHub.WestUS2",
   "id": "EventHub.WestUS2",
   "properties": {
-    "changeNumber": 11,
+    "changeNumber": 12,
     "region": "westus2",
     "regionId": 38,
     "platform": "Azure",
@@ -21,6 +21,7 @@
       "40.78.247.0/26",
       "40.78.250.64/28",
       "40.78.253.128/26",
+      "40.125.103.251/32",
       "52.233.111.128/25",
       "2603:1030:c06:1::240/122",
       "2603:1030:c06:2::600/120",
