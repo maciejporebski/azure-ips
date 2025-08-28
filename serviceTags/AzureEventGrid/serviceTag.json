@@ -2,7 +2,7 @@
   "name": "AzureEventGrid",
   "id": "AzureEventGrid",
   "properties": {
-    "changeNumber": 35,
+    "changeNumber": 36,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -329,7 +329,6 @@
       "52.250.32.160/28",
       "52.252.213.192/28",
       "52.253.225.32/32",
-      "52.255.80.16/28",
       "52.255.82.160/28",
       "57.151.209.128/25",
       "57.152.109.80/28",
