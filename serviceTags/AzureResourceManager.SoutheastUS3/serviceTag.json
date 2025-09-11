@@ -1,0 +1,16 @@
+{
+  "name": "AzureResourceManager.SoutheastUS3",
+  "id": "AzureResourceManager.SoutheastUS3",
+  "properties": {
+    "changeNumber": 1,
+    "region": "southeastus3",
+    "regionId": 105,
+    "platform": "Azure",
+    "systemService": "AzureResourceManager",
+    "addressPrefixes": [
+      "74.7.48.0/23",
+      "2603:1030:1302:1::300/120"
+    ],
+    "networkFeatures": null
+  }
+}

@@ -2,7 +2,7 @@
   "name": "AzureCloud.indonesiacentral",
   "id": "AzureCloud.indonesiacentral",
   "properties": {
-    "changeNumber": 10,
+    "changeNumber": 11,
     "region": "indonesiacentral",
     "regionId": 6,
     "platform": "Azure",
@@ -37,6 +37,7 @@
       "40.93.143.0/24",
       "40.100.70.128/25",
       "40.100.71.0/26",
+      "48.193.0.0/17",
       "48.212.52.0/24",
       "48.212.180.0/24",
       "48.213.52.0/24",
