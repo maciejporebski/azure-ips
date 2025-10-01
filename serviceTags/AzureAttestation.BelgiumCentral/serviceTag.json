@@ -1,0 +1,16 @@
+{
+  "name": "AzureAttestation.BelgiumCentral",
+  "id": "AzureAttestation.BelgiumCentral",
+  "properties": {
+    "changeNumber": 1,
+    "region": "belgiumcentral",
+    "regionId": 97,
+    "platform": "Azure",
+    "systemService": "AzureAttestation",
+    "addressPrefixes": [
+      "9.160.40.20/30",
+      "2603:1020:1502::540/124"
+    ],
+    "networkFeatures": null
+  }
+}

@@ -2,13 +2,14 @@
   "name": "AzureDevOps.CentralIndia",
   "id": "AzureDevOps.CentralIndia",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "centralindia",
     "regionId": 21,
     "platform": "Azure",
     "systemService": "AzureDevOps",
     "addressPrefixes": [
-      "20.204.197.192/26"
+      "20.204.197.192/26",
+      "2603:1040:a06:c::80/122"
     ],
     "networkFeatures": null
   }

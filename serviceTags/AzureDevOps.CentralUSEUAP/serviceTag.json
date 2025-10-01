@@ -2,13 +2,14 @@
   "name": "AzureDevOps.CentralUSEUAP",
   "id": "AzureDevOps.CentralUSEUAP",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "centraluseuap",
     "regionId": 48,
     "platform": "Azure",
     "systemService": "AzureDevOps",
     "addressPrefixes": [
-      "20.45.196.64/26"
+      "20.45.196.64/26",
+      "2603:1030:f:e::380/122"
     ],
     "networkFeatures": null
   }

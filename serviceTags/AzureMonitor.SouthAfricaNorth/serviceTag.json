@@ -2,7 +2,7 @@
   "name": "AzureMonitor.SouthAfricaNorth",
   "id": "AzureMonitor.SouthAfricaNorth",
   "properties": {
-    "changeNumber": 12,
+    "changeNumber": 13,
     "region": "southafricanorth",
     "regionId": 82,
     "platform": "Azure",
@@ -28,6 +28,8 @@
       "102.133.250.152/29",
       "102.133.251.80/29",
       "102.133.254.224/29",
+      "172.209.231.0/26",
+      "172.209.231.64/27",
       "2603:1000:104::4c0/122",
       "2603:1000:104::600/122",
       "2603:1000:104:1::280/122",

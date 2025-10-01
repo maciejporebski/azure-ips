@@ -2,13 +2,14 @@
   "name": "AzureDevOps.CanadaCentral",
   "id": "AzureDevOps.CanadaCentral",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "canadacentral",
     "regionId": 11,
     "platform": "Azure",
     "systemService": "AzureDevOps",
     "addressPrefixes": [
-      "52.228.82.0/24"
+      "52.228.82.0/24",
+      "2603:1030:f05:b::700/120"
     ],
     "networkFeatures": null
   }

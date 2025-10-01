@@ -2,12 +2,13 @@
   "name": "AzureMonitor.NorthEurope",
   "id": "AzureMonitor.NorthEurope",
   "properties": {
-    "changeNumber": 25,
+    "changeNumber": 26,
     "region": "northeurope",
     "regionId": 17,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "4.207.185.0/24",
       "4.207.252.128/27",
       "4.207.252.192/26",
       "13.69.229.64/29",

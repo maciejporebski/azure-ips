@@ -2,12 +2,14 @@
   "name": "AzureMonitor.EastAsia",
   "id": "AzureMonitor.EastAsia",
   "properties": {
-    "changeNumber": 22,
+    "changeNumber": 23,
     "region": "eastasia",
     "regionId": 1,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "4.144.10.32/27",
+      "4.144.10.64/26",
       "4.192.252.224/27",
       "4.192.253.128/26",
       "13.75.38.0/28",

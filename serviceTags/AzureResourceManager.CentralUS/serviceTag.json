@@ -2,7 +2,7 @@
   "name": "AzureResourceManager.CentralUS",
   "id": "AzureResourceManager.CentralUS",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
@@ -15,6 +15,7 @@
       "20.135.188.46/32",
       "20.135.193.49/32",
       "40.90.21.227/32",
+      "172.169.142.0/23",
       "2603:1030:10::180/122",
       "2603:1030:10:402::280/122"
     ],

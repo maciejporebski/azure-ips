@@ -2,7 +2,7 @@
   "name": "AzureDevOps.WestUS",
   "id": "AzureDevOps.WestUS",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "westus",
     "regionId": 37,
     "platform": "Azure",
@@ -10,7 +10,13 @@
     "addressPrefixes": [
       "40.82.252.0/24",
       "2603:1030:a07:15::3d2/127",
-      "2603:1030:a07:15::3d8/125"
+      "2603:1030:a07:15::3d8/125",
+      "2603:1030:a07:1e::26e/127",
+      "2603:1030:a07:1f::340/122",
+      "2603:1030:a07:1f::380/121",
+      "2603:1030:a07:1f::400/123",
+      "2603:1030:a07:1f::420/124",
+      "2603:1030:a07:1f::430/126"
     ],
     "networkFeatures": null
   }

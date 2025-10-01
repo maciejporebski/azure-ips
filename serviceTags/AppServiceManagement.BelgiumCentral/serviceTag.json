@@ -1,0 +1,18 @@
+{
+  "name": "AppServiceManagement.BelgiumCentral",
+  "id": "AppServiceManagement.BelgiumCentral",
+  "properties": {
+    "changeNumber": 1,
+    "region": "belgiumcentral",
+    "regionId": 97,
+    "platform": "Azure",
+    "systemService": "AzureAppServiceManagement",
+    "addressPrefixes": [
+      "9.160.52.128/26",
+      "2603:1020:1502:2::40/122"
+    ],
+    "networkFeatures": [
+      "NSG"
+    ]
+  }
+}

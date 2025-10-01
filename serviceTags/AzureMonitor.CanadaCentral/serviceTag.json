@@ -2,12 +2,13 @@
   "name": "AzureMonitor.CanadaCentral",
   "id": "AzureMonitor.CanadaCentral",
   "properties": {
-    "changeNumber": 13,
+    "changeNumber": 14,
     "region": "canadacentral",
     "regionId": 11,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "4.172.75.0/24",
       "4.174.145.0/27",
       "4.174.145.64/26",
       "13.71.172.128/28",

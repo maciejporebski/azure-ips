@@ -1,0 +1,16 @@
+{
+  "name": "AzureEventGrid.BelgiumCentral",
+  "id": "AzureEventGrid.BelgiumCentral",
+  "properties": {
+    "changeNumber": 1,
+    "region": "belgiumcentral",
+    "regionId": 97,
+    "platform": "Azure",
+    "systemService": "AzureEventGrid",
+    "addressPrefixes": [
+      "9.160.41.128/25",
+      "2603:1020:1502::280/121"
+    ],
+    "networkFeatures": null
+  }
+}

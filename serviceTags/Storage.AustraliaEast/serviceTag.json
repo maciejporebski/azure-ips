@@ -2,7 +2,7 @@
   "name": "Storage.AustraliaEast",
   "id": "Storage.AustraliaEast",
   "properties": {
-    "changeNumber": 14,
+    "changeNumber": 15,
     "region": "australiaeast",
     "regionId": 3,
     "platform": "Azure",
@@ -38,6 +38,7 @@
       "57.150.46.0/23",
       "57.150.210.0/23",
       "104.46.31.16/28",
+      "135.130.126.0/23",
       "191.238.66.0/26",
       "2603:1010:7::/48"
     ],

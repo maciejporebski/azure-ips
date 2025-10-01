@@ -2,13 +2,14 @@
   "name": "AzureDevOps.UKSouth",
   "id": "AzureDevOps.UKSouth",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "uksouth",
     "regionId": 27,
     "platform": "Azure",
     "systemService": "AzureDevOps",
     "addressPrefixes": [
-      "51.104.26.0/24"
+      "51.104.26.0/24",
+      "2603:1020:705:13::600/120"
     ],
     "networkFeatures": null
   }

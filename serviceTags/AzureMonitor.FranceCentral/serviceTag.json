@@ -2,12 +2,13 @@
   "name": "AzureMonitor.FranceCentral",
   "id": "AzureMonitor.FranceCentral",
   "properties": {
-    "changeNumber": 20,
+    "changeNumber": 21,
     "region": "centralfrance",
     "regionId": 19,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "4.176.48.0/24",
       "4.178.131.0/26",
       "20.19.27.128/28",
       "20.40.137.91/32",

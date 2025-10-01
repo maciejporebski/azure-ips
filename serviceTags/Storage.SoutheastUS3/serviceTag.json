@@ -2,7 +2,7 @@
   "name": "Storage.SoutheastUS3",
   "id": "Storage.SoutheastUS3",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "southeastus3",
     "regionId": 105,
     "platform": "Azure",
@@ -10,8 +10,10 @@
     "addressPrefixes": [
       "20.153.28.0/24",
       "20.153.46.0/24",
+      "20.153.112.0/24",
       "57.150.186.0/23",
       "57.150.214.0/23",
+      "135.130.124.0/23",
       "2603:1030:1303::/48"
     ],
     "networkFeatures": [

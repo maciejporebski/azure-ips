@@ -2,7 +2,7 @@
   "name": "AzureMonitor.MexicoCentral",
   "id": "AzureMonitor.MexicoCentral",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "mexicocentral",
     "regionId": 53,
     "platform": "Azure",
@@ -20,6 +20,8 @@
       "158.23.197.160/28",
       "158.23.204.32/27",
       "158.23.205.64/26",
+      "172.195.21.16/28",
+      "172.195.21.32/27",
       "2603:1030:701:7::12/127",
       "2603:1030:702:2::20/123",
       "2603:1030:702:2::40/122",

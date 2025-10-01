@@ -2,13 +2,14 @@
   "name": "AzureDevOps.BrazilSouth",
   "id": "AzureDevOps.BrazilSouth",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "brazilsouth",
     "regionId": 9,
     "platform": "Azure",
     "systemService": "AzureDevOps",
     "addressPrefixes": [
-      "191.235.226.0/24"
+      "191.235.226.0/24",
+      "2603:1050:6:a::300/120"
     ],
     "networkFeatures": null
   }
