@@ -2,7 +2,7 @@
   "name": "AzureCloud.westeurope",
   "id": "AzureCloud.westeurope",
   "properties": {
-    "changeNumber": 165,
+    "changeNumber": 166,
     "region": "westeurope",
     "regionId": 18,
     "platform": "Azure",
@@ -294,7 +294,6 @@
       "52.112.144.0/20",
       "52.112.197.0/24",
       "52.112.216.0/21",
-      "52.112.228.128/25",
       "52.112.233.0/24",
       "52.112.237.0/24",
       "52.112.238.0/24",

@@ -2,12 +2,13 @@
   "name": "AppServiceManagement.EastUS2",
   "id": "AppServiceManagement.EastUS2",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "eastus2",
     "regionId": 33,
     "platform": "Azure",
     "systemService": "AzureAppServiceManagement",
     "addressPrefixes": [
+      "4.153.250.16/29",
       "20.36.144.192/26",
       "20.98.193.224/28",
       "40.70.146.128/26",
