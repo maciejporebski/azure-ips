@@ -2,7 +2,7 @@
   "name": "PowerBI.NorthEurope",
   "id": "PowerBI.NorthEurope",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "northeurope",
     "regionId": 17,
     "platform": "Azure",
@@ -10,6 +10,7 @@
     "addressPrefixes": [
       "4.207.16.32/27",
       "4.207.16.128/26",
+      "4.207.188.128/26",
       "4.207.242.96/27",
       "4.207.242.128/26",
       "4.207.247.176/28",

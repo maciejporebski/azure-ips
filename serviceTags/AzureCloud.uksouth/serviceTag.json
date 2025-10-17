@@ -2,7 +2,7 @@
   "name": "AzureCloud.uksouth",
   "id": "AzureCloud.uksouth",
   "properties": {
-    "changeNumber": 95,
+    "changeNumber": 96,
     "region": "uksouth",
     "regionId": 27,
     "platform": "Azure",
@@ -174,6 +174,8 @@
       "52.253.162.0/23",
       "57.150.236.0/23",
       "70.152.33.0/24",
+      "70.152.237.0/24",
+      "70.152.238.0/23",
       "74.177.0.0/16",
       "85.210.0.0/16",
       "104.44.89.224/27",

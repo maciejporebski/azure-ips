@@ -2,7 +2,7 @@
   "name": "AzureCloud.qatarcentral",
   "id": "AzureCloud.qatarcentral",
   "properties": {
-    "changeNumber": 63,
+    "changeNumber": 64,
     "region": "qatarcentral",
     "regionId": 84,
     "platform": "Azure",
@@ -66,6 +66,7 @@
       "52.123.150.0/24",
       "52.253.200.0/23",
       "52.253.202.0/24",
+      "70.152.231.0/24",
       "2603:1040:1001::/48",
       "2603:1040:1002::/48",
       "2603:1040:1003::/48",

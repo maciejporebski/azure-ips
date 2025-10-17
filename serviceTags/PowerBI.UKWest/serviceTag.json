@@ -2,12 +2,13 @@
   "name": "PowerBI.UKWest",
   "id": "PowerBI.UKWest",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "ukwest",
     "regionId": 28,
     "platform": "Azure",
     "systemService": "PowerBI",
     "addressPrefixes": [
+      "20.58.120.224/27",
       "20.90.32.144/28",
       "20.90.36.40/29",
       "20.90.36.96/28",

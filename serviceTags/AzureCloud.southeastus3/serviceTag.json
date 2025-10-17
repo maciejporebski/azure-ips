@@ -2,7 +2,7 @@
   "name": "AzureCloud.southeastus3",
   "id": "AzureCloud.southeastus3",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "southeastus3",
     "regionId": 105,
     "platform": "Azure",
@@ -26,6 +26,7 @@
       "57.157.16.140/31",
       "74.7.0.0/17",
       "135.130.124.0/23",
+      "135.130.144.0/23",
       "209.199.31.176/28",
       "209.199.33.64/26",
       "209.199.33.128/26",

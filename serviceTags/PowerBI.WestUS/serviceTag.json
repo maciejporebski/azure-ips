@@ -2,7 +2,7 @@
   "name": "PowerBI.WestUS",
   "id": "PowerBI.WestUS",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "westus",
     "regionId": 37,
     "platform": "Azure",
@@ -15,6 +15,7 @@
       "40.82.253.128/26",
       "40.82.254.0/25",
       "52.159.201.0/25",
+      "52.190.166.64/26",
       "172.185.241.128/27",
       "2603:1030:a07::620/123",
       "2603:1030:a07::640/122"
