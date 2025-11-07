@@ -2,7 +2,7 @@
   "name": "AzureCloud.chilec",
   "id": "AzureCloud.chilec",
   "properties": {
-    "changeNumber": 9,
+    "changeNumber": 10,
     "region": "chilec",
     "regionId": 10,
     "platform": "Azure",
@@ -33,6 +33,7 @@
       "48.212.51.0/24",
       "48.212.179.0/24",
       "48.213.51.0/24",
+      "51.5.72.0/24",
       "52.101.203.0/24",
       "52.101.204.0/22",
       "52.102.150.0/24",
