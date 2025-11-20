@@ -2,12 +2,13 @@
   "name": "AzureAttestation.KoreaCentral",
   "id": "AzureAttestation.KoreaCentral",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "koreacentral",
     "regionId": 26,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
+      "4.217.214.72/29",
       "20.194.72.148/30",
       "52.231.23.116/30",
       "2603:1040:f05::7a0/123"

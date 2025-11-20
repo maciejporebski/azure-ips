@@ -2,12 +2,13 @@
   "name": "AzureAttestation.CentralIndia",
   "id": "AzureAttestation.CentralIndia",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "centralindia",
     "regionId": 21,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
+      "4.247.186.56/29",
       "20.43.123.196/30",
       "20.192.43.76/30",
       "2603:1040:a06:2::2a0/123"

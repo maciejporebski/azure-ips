@@ -2,7 +2,7 @@
   "name": "AzureAttestation.CentralUSEUAP",
   "id": "AzureAttestation.CentralUSEUAP",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "centraluseuap",
     "regionId": 48,
     "platform": "Azure",
@@ -10,6 +10,7 @@
     "addressPrefixes": [
       "20.46.11.4/30",
       "168.61.140.108/30",
+      "172.215.123.104/29",
       "2603:1030:f:2::4c0/123"
     ],
     "networkFeatures": null

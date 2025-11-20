@@ -2,12 +2,13 @@
   "name": "EventHub.CentralIndia",
   "id": "EventHub.CentralIndia",
   "properties": {
-    "changeNumber": 7,
+    "changeNumber": 8,
     "region": "centralindia",
     "regionId": 21,
     "platform": "Azure",
     "systemService": "AzureEventHub",
     "addressPrefixes": [
+      "4.186.6.64/26",
       "20.43.126.64/26",
       "20.192.98.64/26",
       "20.192.102.0/26",

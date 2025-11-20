@@ -2,7 +2,7 @@
   "name": "AzureCloud.usstagec",
   "id": "AzureCloud.usstagec",
   "properties": {
-    "changeNumber": 25,
+    "changeNumber": 26,
     "region": "usstagec",
     "regionId": 69,
     "platform": "Azure",
@@ -41,7 +41,6 @@
       "40.90.16.32/27",
       "40.90.128.32/28",
       "40.90.151.192/27",
-      "40.97.63.0/26",
       "40.123.164.138/31",
       "40.123.164.140/30",
       "40.123.165.0/30",

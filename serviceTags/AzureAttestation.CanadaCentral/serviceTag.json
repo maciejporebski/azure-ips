@@ -2,12 +2,13 @@
   "name": "AzureAttestation.CanadaCentral",
   "id": "AzureAttestation.CanadaCentral",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "canadacentral",
     "regionId": 11,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
+      "4.172.85.24/29",
       "13.71.175.208/30",
       "20.48.193.180/30"
     ],

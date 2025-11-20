@@ -2,7 +2,7 @@
   "name": "AzureSpringCloud",
   "id": "AzureSpringCloud",
   "properties": {
-    "changeNumber": 23,
+    "changeNumber": 24,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -611,7 +611,6 @@
       "52.191.228.91/32",
       "52.191.239.43/32",
       "52.224.17.124/32",
-      "52.224.17.219/32",
       "52.224.18.31/32",
       "52.224.20.104/32",
       "52.224.25.144/32",

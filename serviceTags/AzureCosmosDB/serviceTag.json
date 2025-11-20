@@ -2,7 +2,7 @@
   "name": "AzureCosmosDB",
   "id": "AzureCosmosDB",
   "properties": {
-    "changeNumber": 82,
+    "changeNumber": 83,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -17,6 +17,7 @@
       "4.190.131.128/25",
       "4.194.225.0/25",
       "4.194.225.128/26",
+      "4.199.44.192/27",
       "4.232.26.64/27",
       "4.232.42.64/26",
       "4.255.28.232/32",
