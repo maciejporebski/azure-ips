@@ -2,7 +2,7 @@
   "name": "AzureMonitor.QatarCentral",
   "id": "AzureMonitor.QatarCentral",
   "properties": {
-    "changeNumber": 12,
+    "changeNumber": 13,
     "region": "qatarcentral",
     "regionId": 84,
     "platform": "Azure",
@@ -39,7 +39,8 @@
       "2603:1040:1002:2::700/121",
       "2603:1040:1002:5::360/123",
       "2603:1040:1002:5::5c0/122",
-      "2603:1040:1002:7::6c0/124"
+      "2603:1040:1002:7::6c0/124",
+      "2603:1040:1002:8::300/120"
     ],
     "networkFeatures": [
       "NSG"

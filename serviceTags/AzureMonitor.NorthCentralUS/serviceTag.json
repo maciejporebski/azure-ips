@@ -2,7 +2,7 @@
   "name": "AzureMonitor.NorthCentralUS",
   "id": "AzureMonitor.NorthCentralUS",
   "properties": {
-    "changeNumber": 32,
+    "changeNumber": 33,
     "region": "northcentralus",
     "regionId": 34,
     "platform": "Azure",
@@ -45,6 +45,7 @@
       "2603:1030:608:8::80/123",
       "2603:1030:608:8::c0/122",
       "2603:1030:608:13::400/122",
+      "2603:1030:608:14::200/120",
       "2603:1030:608:402::500/121",
       "2603:1030:608:802::80/121",
       "2603:1030:608:c00::300/121",

@@ -1,0 +1,21 @@
+{
+  "name": "MicrosoftContainerRegistry.EastUS3",
+  "id": "MicrosoftContainerRegistry.EastUS3",
+  "properties": {
+    "changeNumber": 1,
+    "region": "eastus3",
+    "regionId": 104,
+    "platform": "Azure",
+    "systemService": "MicrosoftContainerRegistry",
+    "addressPrefixes": [
+      "134.138.96.0/29",
+      "2603:1030:1402:400::/125"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}

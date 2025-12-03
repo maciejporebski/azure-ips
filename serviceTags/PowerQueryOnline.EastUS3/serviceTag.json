@@ -1,0 +1,16 @@
+{
+  "name": "PowerQueryOnline.EastUS3",
+  "id": "PowerQueryOnline.EastUS3",
+  "properties": {
+    "changeNumber": 1,
+    "region": "eastus3",
+    "regionId": 104,
+    "platform": "Azure",
+    "systemService": "PowerQueryOnline",
+    "addressPrefixes": [
+      "134.138.64.32/29",
+      "2603:1030:1402::1a0/123"
+    ],
+    "networkFeatures": null
+  }
+}

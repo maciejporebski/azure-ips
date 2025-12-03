@@ -2,7 +2,7 @@
   "name": "AzureCloud.mexicocentral",
   "id": "AzureCloud.mexicocentral",
   "properties": {
-    "changeNumber": 32,
+    "changeNumber": 33,
     "region": "mexicocentral",
     "regionId": 53,
     "platform": "Azure",
@@ -29,6 +29,7 @@
       "20.209.222.0/23",
       "20.231.133.0/24",
       "40.64.144.184/29",
+      "40.64.152.160/27",
       "40.64.187.0/25",
       "40.93.140.0/24",
       "40.100.66.64/26",

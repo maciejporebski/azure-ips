@@ -1,0 +1,16 @@
+{
+  "name": "AzureAttestation.EastUS3",
+  "id": "AzureAttestation.EastUS3",
+  "properties": {
+    "changeNumber": 1,
+    "region": "eastus3",
+    "regionId": 104,
+    "platform": "Azure",
+    "systemService": "AzureAttestation",
+    "addressPrefixes": [
+      "134.138.64.20/30",
+      "2603:1030:1402::760/124"
+    ],
+    "networkFeatures": null
+  }
+}

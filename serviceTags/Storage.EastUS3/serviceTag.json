@@ -1,0 +1,25 @@
+{
+  "name": "Storage.EastUS3",
+  "id": "Storage.EastUS3",
+  "properties": {
+    "changeNumber": 1,
+    "region": "eastus3",
+    "regionId": 104,
+    "platform": "Azure",
+    "systemService": "AzureStorage",
+    "addressPrefixes": [
+      "20.153.48.0/24",
+      "20.153.58.0/24",
+      "57.150.249.0/24",
+      "135.130.0.0/23",
+      "135.130.2.0/24",
+      "2603:1030:1403::/48"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}

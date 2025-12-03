@@ -1,0 +1,19 @@
+{
+  "name": "ServiceBus.EastUS3",
+  "id": "ServiceBus.EastUS3",
+  "properties": {
+    "changeNumber": 1,
+    "region": "eastus3",
+    "regionId": 104,
+    "platform": "Azure",
+    "systemService": "AzureServiceBus",
+    "addressPrefixes": [
+      "134.138.71.128/25",
+      "2603:1030:1402:1::180/121"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG"
+    ]
+  }
+}

@@ -2,13 +2,14 @@
   "name": "StorageSyncService",
   "id": "StorageSyncService",
   "properties": {
-    "changeNumber": 55,
+    "changeNumber": 56,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
     "systemService": "StorageSyncService",
     "addressPrefixes": [
       "4.171.52.120/29",
+      "9.160.69.152/29",
       "9.160.80.48/29",
       "9.205.52.88/29",
       "9.205.75.40/29",

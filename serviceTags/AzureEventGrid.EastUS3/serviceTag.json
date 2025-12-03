@@ -1,0 +1,16 @@
+{
+  "name": "AzureEventGrid.EastUS3",
+  "id": "AzureEventGrid.EastUS3",
+  "properties": {
+    "changeNumber": 1,
+    "region": "eastus3",
+    "regionId": 104,
+    "platform": "Azure",
+    "systemService": "AzureEventGrid",
+    "addressPrefixes": [
+      "134.138.65.128/25",
+      "2603:1030:1402::480/121"
+    ],
+    "networkFeatures": null
+  }
+}

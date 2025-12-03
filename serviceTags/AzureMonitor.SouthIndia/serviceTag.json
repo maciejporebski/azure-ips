@@ -2,7 +2,7 @@
   "name": "AzureMonitor.SouthIndia",
   "id": "AzureMonitor.SouthIndia",
   "properties": {
-    "changeNumber": 12,
+    "changeNumber": 13,
     "region": "southindia",
     "regionId": 22,
     "platform": "Azure",
@@ -31,6 +31,7 @@
       "2603:1040:c06:6::600/123",
       "2603:1040:c06:6::640/122",
       "2603:1040:c06:a::5a0/124",
+      "2603:1040:c06:b::100/120",
       "2603:1040:c06:402::500/121"
     ],
     "networkFeatures": [

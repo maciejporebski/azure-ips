@@ -2,7 +2,7 @@
   "name": "AzureMonitor.AustraliaSoutheast",
   "id": "AzureMonitor.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
@@ -42,7 +42,8 @@
       "2603:1010:101:6::/122",
       "2603:1010:101:402::500/121",
       "2603:1010:207:1::180/121",
-      "2603:1010:207:3::210/124"
+      "2603:1010:207:3::210/124",
+      "2603:1010:207:4::/120"
     ],
     "networkFeatures": [
       "NSG"

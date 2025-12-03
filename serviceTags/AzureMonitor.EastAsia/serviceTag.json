@@ -2,7 +2,7 @@
   "name": "AzureMonitor.EastAsia",
   "id": "AzureMonitor.EastAsia",
   "properties": {
-    "changeNumber": 24,
+    "changeNumber": 25,
     "region": "eastasia",
     "regionId": 1,
     "platform": "Azure",
@@ -54,6 +54,7 @@
       "2603:1040:207:6::380/123",
       "2603:1040:207:6::3c0/122",
       "2603:1040:207:f::6e0/124",
+      "2603:1040:207:11::/120",
       "2603:1040:207:402::500/121",
       "2603:1040:207:800::300/121",
       "2603:1040:207:c00::300/121",
