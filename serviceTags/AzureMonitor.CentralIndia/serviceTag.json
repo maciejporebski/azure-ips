@@ -2,13 +2,14 @@
   "name": "AzureMonitor.CentralIndia",
   "id": "AzureMonitor.CentralIndia",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "centralindia",
     "regionId": 21,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
       "4.186.1.0/24",
+      "4.188.8.112/28",
       "4.213.26.192/27",
       "4.213.29.64/26",
       "4.247.186.32/28",

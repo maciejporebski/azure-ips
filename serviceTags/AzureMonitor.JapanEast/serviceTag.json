@@ -2,13 +2,14 @@
   "name": "AzureMonitor.JapanEast",
   "id": "AzureMonitor.JapanEast",
   "properties": {
-    "changeNumber": 16,
+    "changeNumber": 17,
     "region": "japaneast",
     "regionId": 24,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
       "4.189.204.0/24",
+      "4.216.1.176/28",
       "4.241.51.16/28",
       "13.73.26.213/32",
       "13.78.10.58/32",

@@ -2,12 +2,13 @@
   "name": "AzureMonitor.NewZealandNorth",
   "id": "AzureMonitor.NewZealandNorth",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "newzealandnorth",
     "regionId": 91,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "172.196.61.176/28",
       "172.204.165.124/30",
       "172.204.166.72/29",
       "172.204.166.224/31",

@@ -2,12 +2,13 @@
   "name": "AzureMonitor.IndonesiaCentral",
   "id": "AzureMonitor.IndonesiaCentral",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "indonesiacentral",
     "regionId": 6,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "48.193.48.80/28",
       "70.153.90.160/28",
       "70.153.166.192/29",
       "70.153.166.200/30",
