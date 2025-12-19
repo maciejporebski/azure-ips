@@ -2,13 +2,16 @@
   "name": "AzureMonitor.IndonesiaCentral",
   "id": "AzureMonitor.IndonesiaCentral",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "indonesiacentral",
     "regionId": 6,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
       "48.193.48.80/28",
+      "48.193.48.96/27",
+      "48.193.48.144/28",
+      "48.193.48.160/27",
       "70.153.90.160/28",
       "70.153.166.192/29",
       "70.153.166.200/30",
@@ -27,7 +30,8 @@
       "2603:1040:1802:2::300/122",
       "2603:1040:1802:2::380/121",
       "2603:1040:1802:2::400/121",
-      "2603:1040:1802:4::590/124"
+      "2603:1040:1802:4::590/124",
+      "2603:1040:1802:5::/123"
     ],
     "networkFeatures": [
       "NSG"

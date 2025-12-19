@@ -2,13 +2,15 @@
   "name": "AzureMonitor.NewZealandNorth",
   "id": "AzureMonitor.NewZealandNorth",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "newzealandnorth",
     "regionId": 91,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
       "172.196.61.176/28",
+      "172.196.61.192/27",
+      "172.196.62.0/27",
       "172.204.165.124/30",
       "172.204.166.72/29",
       "172.204.166.224/31",
@@ -26,7 +28,8 @@
       "2603:1010:502:2::640/123",
       "2603:1010:502:2::680/121",
       "2603:1010:502:2::700/121",
-      "2603:1010:502:5::310/124"
+      "2603:1010:502:5::310/124",
+      "2603:1010:502:5::5a0/123"
     ],
     "networkFeatures": [
       "NSG"

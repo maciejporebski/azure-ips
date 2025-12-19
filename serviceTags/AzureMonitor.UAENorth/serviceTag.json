@@ -2,12 +2,13 @@
   "name": "AzureMonitor.UAENorth",
   "id": "AzureMonitor.UAENorth",
   "properties": {
-    "changeNumber": 22,
+    "changeNumber": 23,
     "region": "uaenorth",
     "regionId": 60,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "4.161.10.112/28",
       "20.38.143.0/27",
       "20.38.143.44/30",
       "20.38.152.32/27",
@@ -41,6 +42,7 @@
       "2603:1040:904:3::6c0/122",
       "2603:1040:904:7::7b0/124",
       "2603:1040:904:8::500/120",
+      "2603:1040:904:8::660/123",
       "2603:1040:904:402::500/121",
       "2603:1040:904:800::100/121",
       "2603:1040:904:c02::480/121"

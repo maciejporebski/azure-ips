@@ -2,13 +2,14 @@
   "name": "AzureMonitor.SwitzerlandWest",
   "id": "AzureMonitor.SwitzerlandWest",
   "properties": {
-    "changeNumber": 15,
+    "changeNumber": 16,
     "region": "switzerlandw",
     "regionId": 67,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
       "4.226.250.64/28",
+      "4.226.252.176/28",
       "20.199.203.80/29",
       "51.107.147.16/28",
       "51.107.147.116/30",
@@ -29,6 +30,7 @@
       "2603:1020:b04:2::500/121",
       "2603:1020:b04:6::60/123",
       "2603:1020:b04:7::360/124",
+      "2603:1020:b04:9::80/123",
       "2603:1020:b04:402::500/121"
     ],
     "networkFeatures": [
