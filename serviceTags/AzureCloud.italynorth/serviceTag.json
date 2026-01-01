@@ -2,7 +2,7 @@
   "name": "AzureCloud.italynorth",
   "id": "AzureCloud.italynorth",
   "properties": {
-    "changeNumber": 59,
+    "changeNumber": 60,
     "region": "italynorth",
     "regionId": 93,
     "platform": "Azure",
@@ -77,6 +77,7 @@
       "70.152.43.0/24",
       "72.146.0.0/16",
       "135.130.84.0/23",
+      "145.190.69.0/24",
       "172.213.0.0/19",
       "172.213.64.0/18",
       "172.213.128.0/17",

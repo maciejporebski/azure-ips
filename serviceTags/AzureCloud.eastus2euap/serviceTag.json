@@ -2,7 +2,7 @@
   "name": "AzureCloud.eastus2euap",
   "id": "AzureCloud.eastus2euap",
   "properties": {
-    "changeNumber": 123,
+    "changeNumber": 124,
     "region": "eastus2euap",
     "regionId": 49,
     "platform": "Azure",
@@ -65,6 +65,7 @@
       "40.74.144.0/20",
       "40.75.32.0/21",
       "40.78.208.0/28",
+      "40.78.208.80/28",
       "40.79.88.0/27",
       "40.79.88.32/28",
       "40.79.89.0/24",

@@ -2,7 +2,7 @@
   "name": "AzureCloud.centralfrance",
   "id": "AzureCloud.centralfrance",
   "properties": {
-    "changeNumber": 91,
+    "changeNumber": 92,
     "region": "centralfrance",
     "regionId": 19,
     "platform": "Azure",
@@ -150,8 +150,7 @@
       "57.150.40.0/23",
       "57.157.36.0/24",
       "57.157.37.0/28",
-      "57.157.37.16/30",
-      "57.157.37.20/31",
+      "57.157.37.16/29",
       "70.37.152.0/24",
       "70.152.10.0/24",
       "70.152.46.0/23",

@@ -2,7 +2,7 @@
   "name": "AzureMonitor.AustraliaEast",
   "id": "AzureMonitor.AustraliaEast",
   "properties": {
-    "changeNumber": 21,
+    "changeNumber": 22,
     "region": "australiaeast",
     "regionId": 3,
     "platform": "Azure",
@@ -12,6 +12,7 @@
       "4.195.7.64/27",
       "4.195.110.160/28",
       "4.196.130.224/28",
+      "4.196.132.160/27",
       "4.198.160.88/29",
       "4.198.162.0/29",
       "4.237.170.160/27",
