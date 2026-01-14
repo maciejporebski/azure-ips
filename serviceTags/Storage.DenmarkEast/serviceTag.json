@@ -1,0 +1,24 @@
+{
+  "name": "Storage.DenmarkEast",
+  "id": "Storage.DenmarkEast",
+  "properties": {
+    "changeNumber": 1,
+    "region": "denmarkeast",
+    "regionId": 100,
+    "platform": "Azure",
+    "systemService": "AzureStorage",
+    "addressPrefixes": [
+      "20.153.21.0/24",
+      "20.153.33.0/24",
+      "57.150.199.0/24",
+      "57.150.200.0/22",
+      "2603:1020:1603::/48"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}

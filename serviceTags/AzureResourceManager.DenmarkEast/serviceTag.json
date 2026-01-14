@@ -1,0 +1,16 @@
+{
+  "name": "AzureResourceManager.DenmarkEast",
+  "id": "AzureResourceManager.DenmarkEast",
+  "properties": {
+    "changeNumber": 1,
+    "region": "denmarkeast",
+    "regionId": 100,
+    "platform": "Azure",
+    "systemService": "AzureResourceManager",
+    "addressPrefixes": [
+      "9.205.40.0/23",
+      "2603:1020:1602:1::300/120"
+    ],
+    "networkFeatures": null
+  }
+}
