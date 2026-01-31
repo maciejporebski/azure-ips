@@ -2,7 +2,7 @@
   "name": "Storage.ItalyNorth",
   "id": "Storage.ItalyNorth",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "italynorth",
     "regionId": 93,
     "platform": "Azure",
@@ -17,6 +17,7 @@
       "20.209.120.0/23",
       "57.150.36.0/23",
       "135.130.84.0/23",
+      "145.190.148.0/24",
       "2603:1020:1201::/48"
     ],
     "networkFeatures": [

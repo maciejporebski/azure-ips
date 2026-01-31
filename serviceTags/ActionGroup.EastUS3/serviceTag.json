@@ -2,13 +2,15 @@
   "name": "ActionGroup.EastUS3",
   "id": "ActionGroup.EastUS3",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "eastus3",
     "regionId": 104,
     "platform": "Azure",
     "systemService": "ActionGroup",
     "addressPrefixes": [
+      "134.138.95.196/30",
       "134.138.99.4/30",
+      "2603:1030:1402:4::678/125",
       "2603:1030:1402:400::40/125"
     ],
     "networkFeatures": null

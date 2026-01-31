@@ -2,7 +2,7 @@
   "name": "Storage.EastUS3",
   "id": "Storage.EastUS3",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "eastus3",
     "regionId": 104,
     "platform": "Azure",
@@ -13,6 +13,8 @@
       "57.150.249.0/24",
       "135.130.0.0/23",
       "135.130.2.0/24",
+      "135.130.219.0/24",
+      "135.130.220.0/24",
       "2603:1030:1403::/48"
     ],
     "networkFeatures": [
