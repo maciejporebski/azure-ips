@@ -2,7 +2,7 @@
   "name": "AzureArcInfrastructure.MalaysiaWest",
   "id": "AzureArcInfrastructure.MalaysiaWest",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "malaysiawest",
     "regionId": 92,
     "platform": "Azure",
@@ -14,8 +14,10 @@
       "20.17.138.168/29",
       "85.211.236.234/31",
       "85.211.236.248/30",
+      "85.211.237.44/32",
       "2603:1040:1602:2::130/124",
-      "2603:1040:1602:4::7f2/128"
+      "2603:1040:1602:4::7f2/128",
+      "2603:1040:1602:5::54/128"
     ],
     "networkFeatures": null
   }

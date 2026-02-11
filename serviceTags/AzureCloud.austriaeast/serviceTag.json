@@ -2,7 +2,7 @@
   "name": "AzureCloud.austriaeast",
   "id": "AzureCloud.austriaeast",
   "properties": {
-    "changeNumber": 10,
+    "changeNumber": 11,
     "region": "austriaeast",
     "regionId": 95,
     "platform": "Azure",
@@ -58,6 +58,7 @@
       "70.152.248.0/24",
       "135.130.188.0/23",
       "145.190.128.0/24",
+      "151.206.153.0/24",
       "209.199.22.176/28",
       "209.199.24.64/26",
       "209.199.24.128/26",

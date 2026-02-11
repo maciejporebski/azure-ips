@@ -2,7 +2,7 @@
   "name": "AzureCloud.germanywc",
   "id": "AzureCloud.germanywc",
   "properties": {
-    "changeNumber": 86,
+    "changeNumber": 87,
     "region": "germanywc",
     "regionId": 71,
     "platform": "Azure",
@@ -124,7 +124,7 @@
       "57.157.60.0/25",
       "57.157.60.128/27",
       "57.157.60.160/28",
-      "57.157.60.176/30",
+      "57.157.60.176/29",
       "70.152.12.0/24",
       "72.144.0.0/16",
       "98.67.128.0/17",

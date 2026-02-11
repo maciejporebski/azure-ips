@@ -2,7 +2,7 @@
   "name": "PowerBI.GermanyNorth",
   "id": "PowerBI.GermanyNorth",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "germanyn",
     "regionId": 72,
     "platform": "Azure",
@@ -11,6 +11,8 @@
       "20.113.251.128/28",
       "20.170.175.32/27",
       "20.170.220.184/29",
+      "20.170.251.112/28",
+      "20.170.251.128/28",
       "51.116.48.68/31",
       "51.116.48.128/30",
       "51.116.48.136/29",

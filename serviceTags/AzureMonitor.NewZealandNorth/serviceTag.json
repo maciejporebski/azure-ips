@@ -2,7 +2,7 @@
   "name": "AzureMonitor.NewZealandNorth",
   "id": "AzureMonitor.NewZealandNorth",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "newzealandnorth",
     "regionId": 91,
     "platform": "Azure",
@@ -28,7 +28,6 @@
       "2603:1010:502:2::640/123",
       "2603:1010:502:2::680/121",
       "2603:1010:502:2::700/121",
-      "2603:1010:502:5::310/124",
       "2603:1010:502:5::5a0/123"
     ],
     "networkFeatures": [

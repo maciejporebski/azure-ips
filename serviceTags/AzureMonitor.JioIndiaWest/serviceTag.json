@@ -2,7 +2,7 @@
   "name": "AzureMonitor.JioIndiaWest",
   "id": "AzureMonitor.JioIndiaWest",
   "properties": {
-    "changeNumber": 13,
+    "changeNumber": 14,
     "region": "jioindiawest",
     "regionId": 65,
     "platform": "Azure",
@@ -33,7 +33,6 @@
       "2603:1040:d04:3::60/126",
       "2603:1040:d04:3::5c0/123",
       "2603:1040:d04:3::600/122",
-      "2603:1040:d04:7::150/124",
       "2603:1040:d04:7::2e0/123",
       "2603:1040:d04:7::300/120",
       "2603:1040:d04:400::420/123",

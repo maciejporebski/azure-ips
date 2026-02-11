@@ -2,7 +2,7 @@
   "name": "AzureArcInfrastructure.CentralIndia",
   "id": "AzureArcInfrastructure.CentralIndia",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "centralindia",
     "regionId": 21,
     "platform": "Azure",
@@ -15,7 +15,9 @@
       "20.204.199.104/29",
       "40.80.53.2/31",
       "52.140.107.92/30",
-      "52.140.110.108/30"
+      "52.140.110.108/30",
+      "57.159.92.207/32",
+      "2603:1040:a06:c::2bf/128"
     ],
     "networkFeatures": null
   }

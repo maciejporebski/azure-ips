@@ -2,7 +2,7 @@
   "name": "Storage.CentralUSEUAP",
   "id": "Storage.CentralUSEUAP",
   "properties": {
-    "changeNumber": 11,
+    "changeNumber": 12,
     "region": "centraluseuap",
     "regionId": 48,
     "platform": "Azure",
@@ -25,7 +25,11 @@
       "52.239.177.0/27",
       "52.239.238.0/24",
       "57.150.126.0/23",
-      "2603:1030:12::/49"
+      "135.130.247.0/24",
+      "135.130.252.0/25",
+      "135.130.254.0/23",
+      "2603:1030:12::/49",
+      "2603:1030:12:8000::/64"
     ],
     "networkFeatures": [
       "API",

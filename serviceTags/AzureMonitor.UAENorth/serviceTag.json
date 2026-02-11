@@ -2,7 +2,7 @@
   "name": "AzureMonitor.UAENorth",
   "id": "AzureMonitor.UAENorth",
   "properties": {
-    "changeNumber": 23,
+    "changeNumber": 24,
     "region": "uaenorth",
     "regionId": 60,
     "platform": "Azure",
@@ -40,7 +40,6 @@
       "2603:1040:904:1::280/122",
       "2603:1040:904:3::680/123",
       "2603:1040:904:3::6c0/122",
-      "2603:1040:904:7::7b0/124",
       "2603:1040:904:8::500/120",
       "2603:1040:904:8::660/123",
       "2603:1040:904:402::500/121",

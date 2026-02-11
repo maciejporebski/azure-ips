@@ -2,7 +2,7 @@
   "name": "AzureMonitor.EastUS2EUAP",
   "id": "AzureMonitor.EastUS2EUAP",
   "properties": {
-    "changeNumber": 23,
+    "changeNumber": 24,
     "region": "eastus2euap",
     "regionId": 49,
     "platform": "Azure",
@@ -43,7 +43,6 @@
       "2603:1030:40b:2::300/121",
       "2603:1030:40b:8::640/123",
       "2603:1030:40b:8::680/122",
-      "2603:1030:40b:f::4c0/124",
       "2603:1030:40b:10::500/120",
       "2603:1030:40b:10::780/123",
       "2603:1030:40b:400::d00/121",

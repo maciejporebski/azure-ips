@@ -2,7 +2,7 @@
   "name": "AzureMonitor.KoreaCentral",
   "id": "AzureMonitor.KoreaCentral",
   "properties": {
-    "changeNumber": 18,
+    "changeNumber": 19,
     "region": "koreacentral",
     "regionId": 26,
     "platform": "Azure",
@@ -49,7 +49,6 @@
       "2603:1040:f05:1::280/122",
       "2603:1040:f05:3::760/123",
       "2603:1040:f05:3::780/122",
-      "2603:1040:f05:b::700/124",
       "2603:1040:f05:c::100/120",
       "2603:1040:f05:c::280/123",
       "2603:1040:f05:402::500/121",

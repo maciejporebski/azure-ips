@@ -2,7 +2,7 @@
   "name": "AzureMonitor.JapanWest",
   "id": "AzureMonitor.JapanWest",
   "properties": {
-    "changeNumber": 16,
+    "changeNumber": 17,
     "region": "japanwest",
     "regionId": 25,
     "platform": "Azure",
@@ -38,7 +38,6 @@
       "2603:1040:606:3::600/123",
       "2603:1040:606:3::780/121",
       "2603:1040:606:6::400/122",
-      "2603:1040:606:9::7d0/124",
       "2603:1040:606:b::400/120",
       "2603:1040:606:b::5e0/123",
       "2603:1040:606:402::500/121",

@@ -2,7 +2,7 @@
   "name": "AzureMonitor.PolandCentral",
   "id": "AzureMonitor.PolandCentral",
   "properties": {
-    "changeNumber": 6,
+    "changeNumber": 7,
     "region": "polandcentral",
     "regionId": 52,
     "platform": "Azure",
@@ -34,7 +34,6 @@
       "2603:1020:1302:2::680/121",
       "2603:1020:1302:3::180/123",
       "2603:1020:1302:3::1c0/122",
-      "2603:1020:1302:5::3e0/124",
       "2603:1020:1302:5::600/120",
       "2603:1020:1302:5::7e0/123"
     ],
