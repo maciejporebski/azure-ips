@@ -2,12 +2,13 @@
   "name": "GatewayManager.CanadaEast",
   "id": "GatewayManager.CanadaEast",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "canadaeast",
     "regionId": 12,
     "platform": "Azure",
     "systemService": "GatewayManager",
     "addressPrefixes": [
+      "20.200.32.224/27",
       "40.69.106.88/29",
       "40.89.16.72/29",
       "52.139.87.129/32",

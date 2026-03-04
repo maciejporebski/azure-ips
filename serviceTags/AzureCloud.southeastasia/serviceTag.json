@@ -2,7 +2,7 @@
   "name": "AzureCloud.southeastasia",
   "id": "AzureCloud.southeastasia",
   "properties": {
-    "changeNumber": 100,
+    "changeNumber": 101,
     "region": "southeastasia",
     "regionId": 2,
     "platform": "Azure",
@@ -204,6 +204,7 @@
       "135.171.0.0/16",
       "137.116.128.0/19",
       "138.91.32.0/20",
+      "145.190.153.0/24",
       "151.206.66.0/24",
       "151.206.68.0/25",
       "151.206.140.0/24",

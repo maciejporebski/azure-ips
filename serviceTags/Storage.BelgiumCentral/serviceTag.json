@@ -2,7 +2,7 @@
   "name": "Storage.BelgiumCentral",
   "id": "Storage.BelgiumCentral",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "belgiumcentral",
     "regionId": 97,
     "platform": "Azure",
@@ -13,6 +13,7 @@
       "57.150.194.0/23",
       "57.150.196.0/23",
       "57.150.198.0/24",
+      "145.190.157.0/24",
       "2603:1020:1503::/48"
     ],
     "networkFeatures": [

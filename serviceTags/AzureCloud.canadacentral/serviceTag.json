@@ -2,7 +2,7 @@
   "name": "AzureCloud.canadacentral",
   "id": "AzureCloud.canadacentral",
   "properties": {
-    "changeNumber": 97,
+    "changeNumber": 98,
     "region": "canadacentral",
     "regionId": 11,
     "platform": "Azure",
@@ -140,6 +140,7 @@
       "145.191.0.0/17",
       "151.206.107.128/25",
       "151.206.150.0/24",
+      "151.206.176.0/24",
       "216.220.210.0/24",
       "2603:1030:f00::/47",
       "2603:1030:f02::/48",
