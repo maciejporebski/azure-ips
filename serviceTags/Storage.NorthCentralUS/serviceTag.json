@@ -2,7 +2,7 @@
   "name": "Storage.NorthCentralUS",
   "id": "Storage.NorthCentralUS",
   "properties": {
-    "changeNumber": 22,
+    "changeNumber": 23,
     "region": "northcentralus",
     "regionId": 34,
     "platform": "Azure",
@@ -69,6 +69,7 @@
       "135.130.146.0/23",
       "135.130.230.128/25",
       "135.130.231.0/24",
+      "145.190.161.0/24",
       "157.56.216.0/26",
       "168.62.96.128/26",
       "168.62.96.210/32",

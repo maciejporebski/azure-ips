@@ -1,0 +1,16 @@
+{
+  "name": "AzureDevOps.CanadaEast",
+  "id": "AzureDevOps.CanadaEast",
+  "properties": {
+    "changeNumber": 1,
+    "region": "canadaeast",
+    "regionId": 12,
+    "platform": "Azure",
+    "systemService": "AzureDevOps",
+    "addressPrefixes": [
+      "20.200.34.0/26",
+      "2603:1030:1005:c::2d8/125"
+    ],
+    "networkFeatures": null
+  }
+}

@@ -2,7 +2,7 @@
   "name": "AzureMonitor.BrazilSoutheast",
   "id": "AzureMonitor.BrazilSoutheast",
   "properties": {
-    "changeNumber": 13,
+    "changeNumber": 14,
     "region": "brazilse",
     "regionId": 77,
     "platform": "Azure",
@@ -10,6 +10,7 @@
     "addressPrefixes": [
       "4.238.11.96/28",
       "4.238.15.0/28",
+      "4.238.24.64/27",
       "20.206.0.196/31",
       "20.206.5.40/29",
       "108.140.6.64/27",
