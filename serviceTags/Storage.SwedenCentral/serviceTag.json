@@ -2,7 +2,7 @@
   "name": "Storage.SwedenCentral",
   "id": "Storage.SwedenCentral",
   "properties": {
-    "changeNumber": 11,
+    "changeNumber": 12,
     "region": "swedencentral",
     "regionId": 76,
     "platform": "Azure",
@@ -21,6 +21,7 @@
       "57.150.58.0/23",
       "135.130.110.0/23",
       "145.190.140.0/24",
+      "145.190.164.0/24",
       "2603:1020:1005::/48"
     ],
     "networkFeatures": [
