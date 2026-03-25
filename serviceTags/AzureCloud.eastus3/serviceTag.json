@@ -2,7 +2,7 @@
   "name": "AzureCloud.eastus3",
   "id": "AzureCloud.eastus3",
   "properties": {
-    "changeNumber": 7,
+    "changeNumber": 8,
     "region": "eastus3",
     "regionId": 104,
     "platform": "Azure",
@@ -37,6 +37,7 @@
       "135.130.2.0/24",
       "135.130.219.0/24",
       "135.130.220.0/24",
+      "145.190.167.0/24",
       "209.199.33.224/28",
       "209.199.35.0/25",
       "209.199.45.96/27",

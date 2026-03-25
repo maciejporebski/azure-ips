@@ -2,7 +2,7 @@
   "name": "Storage.IsraelNorthwest",
   "id": "Storage.IsraelNorthwest",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "israelnorthwest",
     "regionId": 86,
     "platform": "Azure",
@@ -12,6 +12,7 @@
       "20.153.44.0/24",
       "57.150.177.0/24",
       "57.150.180.0/23",
+      "57.163.12.0/23",
       "135.130.56.0/23",
       "2603:1040:1703::/48"
     ],
