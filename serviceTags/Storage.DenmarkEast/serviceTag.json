@@ -2,7 +2,7 @@
   "name": "Storage.DenmarkEast",
   "id": "Storage.DenmarkEast",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "denmarkeast",
     "regionId": 100,
     "platform": "Azure",
@@ -12,6 +12,8 @@
       "20.153.33.0/24",
       "57.150.199.0/24",
       "57.150.200.0/22",
+      "57.163.24.0/23",
+      "145.190.168.0/24",
       "2603:1020:1603::/48"
     ],
     "networkFeatures": [

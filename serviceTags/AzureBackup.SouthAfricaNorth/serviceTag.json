@@ -2,7 +2,7 @@
   "name": "AzureBackup.SouthAfricaNorth",
   "id": "AzureBackup.SouthAfricaNorth",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "southafricanorth",
     "regionId": 82,
     "platform": "Azure",
@@ -14,6 +14,7 @@
       "102.133.155.128/27",
       "102.133.251.0/27",
       "102.133.254.128/26",
+      "2603:1000:104:b::280/121",
       "2603:1000:104:402::200/121",
       "2603:1000:104:802::180/121",
       "2603:1000:104:c02::180/121"
