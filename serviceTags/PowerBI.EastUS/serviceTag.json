@@ -2,7 +2,7 @@
   "name": "PowerBI.EastUS",
   "id": "PowerBI.EastUS",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "eastus",
     "regionId": 32,
     "platform": "Azure",
@@ -18,6 +18,8 @@
       "20.88.157.96/27",
       "48.194.0.128/26",
       "48.223.152.16/28",
+      "57.162.135.0/25",
+      "57.162.135.128/28",
       "74.179.172.0/26",
       "172.172.252.119/32",
       "172.172.255.174/31",

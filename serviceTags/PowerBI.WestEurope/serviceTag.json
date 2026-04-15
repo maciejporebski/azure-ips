@@ -2,12 +2,14 @@
   "name": "PowerBI.WestEurope",
   "id": "PowerBI.WestEurope",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "westeurope",
     "regionId": 18,
     "platform": "Azure",
     "systemService": "PowerBI",
     "addressPrefixes": [
+      "13.80.200.0/23",
+      "13.80.202.0/26",
       "20.50.0.0/24",
       "20.86.93.192/28",
       "20.86.93.208/29",
