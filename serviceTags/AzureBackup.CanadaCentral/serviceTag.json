@@ -2,12 +2,13 @@
   "name": "AzureBackup.CanadaCentral",
   "id": "AzureBackup.CanadaCentral",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "canadacentral",
     "regionId": 11,
     "platform": "Azure",
     "systemService": "AzureBackup",
     "addressPrefixes": [
+      "4.172.96.192/26",
       "13.71.172.0/26",
       "13.71.172.64/27",
       "20.38.147.0/27",
