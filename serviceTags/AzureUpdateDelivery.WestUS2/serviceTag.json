@@ -2,7 +2,7 @@
   "name": "AzureUpdateDelivery.WestUS2",
   "id": "AzureUpdateDelivery.WestUS2",
   "properties": {
-    "changeNumber": 18,
+    "changeNumber": 19,
     "region": "westus2",
     "regionId": 38,
     "platform": "Azure",
@@ -33,7 +33,6 @@
       "52.148.148.114/32",
       "52.148.150.130/32",
       "52.149.18.190/32",
-      "52.149.21.232/32",
       "52.149.22.183/32",
       "52.156.102.237/32",
       "52.156.144.83/32",

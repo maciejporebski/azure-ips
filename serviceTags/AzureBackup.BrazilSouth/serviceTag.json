@@ -2,12 +2,13 @@
   "name": "AzureBackup.BrazilSouth",
   "id": "AzureBackup.BrazilSouth",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "brazilsouth",
     "regionId": 9,
     "platform": "Azure",
     "systemService": "AzureBackup",
     "addressPrefixes": [
+      "4.228.169.144/28",
       "191.233.204.0/26",
       "191.233.204.64/27",
       "191.234.147.80/28",
