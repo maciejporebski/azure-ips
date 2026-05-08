@@ -2,13 +2,12 @@
   "name": "AzureCognitiveSearch.NorthCentralUS",
   "id": "AzureCognitiveSearch.NorthCentralUS",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "northcentralus",
     "regionId": 34,
     "platform": "Azure",
     "systemService": "AzureCognitiveSearch",
     "addressPrefixes": [
-      "23.100.238.37/32",
       "40.80.186.192/26",
       "2603:1030:608::180/121"
     ],

@@ -2,7 +2,7 @@
   "name": "AzureCloud.chilec",
   "id": "AzureCloud.chilec",
   "properties": {
-    "changeNumber": 11,
+    "changeNumber": 12,
     "region": "chilec",
     "regionId": 10,
     "platform": "Azure",
@@ -75,6 +75,7 @@
       "2603:1061:2010:7::/64",
       "2603:1061:2011:7::/64",
       "2603:1063:136::/56",
+      "2603:1063:638::/56",
       "2603:1063:2204:10::/64",
       "2603:1063:2435::/48",
       "2603:1063:2635::/48",

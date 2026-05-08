@@ -2,13 +2,14 @@
   "name": "PowerBI.BrazilSouth",
   "id": "PowerBI.BrazilSouth",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "brazilsouth",
     "regionId": 9,
     "platform": "Azure",
     "systemService": "PowerBI",
     "addressPrefixes": [
       "4.202.254.192/28",
+      "4.228.174.128/26",
       "20.206.178.24/29",
       "20.206.178.48/29",
       "20.206.178.64/27",

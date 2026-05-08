@@ -2,7 +2,7 @@
   "name": "AzureCloud.switzerlandw",
   "id": "AzureCloud.switzerlandw",
   "properties": {
-    "changeNumber": 38,
+    "changeNumber": 39,
     "region": "switzerlandw",
     "regionId": 67,
     "platform": "Azure",
@@ -68,6 +68,7 @@
       "70.152.30.0/24",
       "74.242.0.0/18",
       "74.242.64.0/21",
+      "145.190.175.0/24",
       "2603:1020:b00::/47",
       "2603:1020:b03::/48",
       "2603:1020:b04::/47",
