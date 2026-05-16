@@ -2,14 +2,16 @@
   "name": "AzureAttestation.SouthCentralUSSTG",
   "id": "AzureAttestation.SouthCentralUSSTG",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "usstagec",
     "regionId": 69,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
       "20.44.4.248/30",
-      "20.45.116.92/30"
+      "20.45.116.92/30",
+      "57.152.147.56/29",
+      "57.152.147.192/30"
     ],
     "networkFeatures": null
   }
