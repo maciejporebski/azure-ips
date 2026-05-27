@@ -2,7 +2,7 @@
   "name": "AzureAttestation.AustriaEast",
   "id": "AzureAttestation.AustriaEast",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "austriaeast",
     "regionId": 95,
     "platform": "Azure",
@@ -11,6 +11,8 @@
       "68.210.160.20/30",
       "68.210.243.112/29",
       "68.210.243.120/30",
+      "68.210.245.188/30",
+      "68.210.245.208/29",
       "2603:1020:104:4::420/124"
     ],
     "networkFeatures": null

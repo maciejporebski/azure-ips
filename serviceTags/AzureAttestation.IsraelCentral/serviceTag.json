@@ -2,7 +2,7 @@
   "name": "AzureAttestation.IsraelCentral",
   "id": "AzureAttestation.IsraelCentral",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "israelcentral",
     "regionId": 85,
     "platform": "Azure",
@@ -10,6 +10,8 @@
     "addressPrefixes": [
       "20.217.40.44/30",
       "51.58.49.24/29",
+      "51.58.78.80/29",
+      "51.58.78.88/30",
       "2603:1040:1402::620/124"
     ],
     "networkFeatures": null

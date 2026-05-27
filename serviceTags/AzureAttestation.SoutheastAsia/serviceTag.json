@@ -2,13 +2,15 @@
   "name": "AzureAttestation.SoutheastAsia",
   "id": "AzureAttestation.SoutheastAsia",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "southeastasia",
     "regionId": 2,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
       "4.145.10.168/29",
+      "4.193.1.232/29",
+      "4.193.2.0/30",
       "23.98.109.52/30",
       "40.78.239.116/30"
     ],

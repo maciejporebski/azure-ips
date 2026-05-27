@@ -2,7 +2,7 @@
   "name": "AzureAttestation.MexicoCentral",
   "id": "AzureAttestation.MexicoCentral",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "mexicocentral",
     "regionId": 53,
     "platform": "Azure",
@@ -10,6 +10,8 @@
     "addressPrefixes": [
       "158.23.100.152/30",
       "172.195.50.24/29",
+      "172.195.119.152/29",
+      "172.195.121.64/30",
       "2603:1030:702::5e0/124"
     ],
     "networkFeatures": null

@@ -2,7 +2,7 @@
   "name": "AzureAttestation.EastUS2EUAP",
   "id": "AzureAttestation.EastUS2EUAP",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "eastus2euap",
     "regionId": 49,
     "platform": "Azure",
@@ -10,7 +10,9 @@
     "addressPrefixes": [
       "20.51.20.80/30",
       "40.89.121.168/30",
-      "48.223.29.136/29"
+      "48.223.29.136/29",
+      "48.223.84.48/29",
+      "48.223.84.56/30"
     ],
     "networkFeatures": null
   }

@@ -1,0 +1,18 @@
+{
+  "name": "PowerPlatformPlex.AustriaEast",
+  "id": "PowerPlatformPlex.AustriaEast",
+  "properties": {
+    "changeNumber": 1,
+    "region": "austriaeast",
+    "regionId": 95,
+    "platform": "Azure",
+    "systemService": "PowerPlatformPlex",
+    "addressPrefixes": [
+      "68.210.246.0/25"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG"
+    ]
+  }
+}

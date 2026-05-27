@@ -2,13 +2,15 @@
   "name": "AzureAttestation.FranceCentral",
   "id": "AzureAttestation.FranceCentral",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "centralfrance",
     "regionId": 19,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
       "4.176.24.176/29",
+      "4.211.160.76/30",
+      "4.211.160.80/29",
       "40.79.141.132/30",
       "51.138.210.128/30"
     ],

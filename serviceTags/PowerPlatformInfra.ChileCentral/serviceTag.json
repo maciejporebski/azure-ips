@@ -1,0 +1,21 @@
+{
+  "name": "PowerPlatformInfra.ChileCentral",
+  "id": "PowerPlatformInfra.ChileCentral",
+  "properties": {
+    "changeNumber": 1,
+    "region": "chilec",
+    "regionId": 10,
+    "platform": "Azure",
+    "systemService": "PowerPlatformInfra",
+    "addressPrefixes": [
+      "57.156.99.128/25",
+      "57.156.100.0/24"
+    ],
+    "networkFeatures": [
+      "API",
+      "NSG",
+      "UDR",
+      "FW"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "name": "AzureAttestation.WestCentralUS",
   "id": "AzureAttestation.WestCentralUS",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "westcentralus",
     "regionId": 36,
     "platform": "Azure",
@@ -10,6 +10,8 @@
     "addressPrefixes": [
       "20.51.53.8/29",
       "40.67.121.196/30",
+      "48.194.162.248/29",
+      "48.194.163.0/30",
       "52.150.157.172/30"
     ],
     "networkFeatures": null

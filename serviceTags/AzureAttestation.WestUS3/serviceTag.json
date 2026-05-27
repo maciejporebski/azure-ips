@@ -2,12 +2,14 @@
   "name": "AzureAttestation.WestUS3",
   "id": "AzureAttestation.WestUS3",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "westus3",
     "regionId": 79,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
+      "4.148.214.196/30",
+      "4.148.214.200/29",
       "20.150.174.132/30",
       "20.150.244.32/30",
       "20.172.72.240/29",

@@ -2,7 +2,7 @@
   "name": "AzureCloud.uaenorth",
   "id": "AzureCloud.uaenorth",
   "properties": {
-    "changeNumber": 73,
+    "changeNumber": 74,
     "region": "uaenorth",
     "regionId": 60,
     "platform": "Azure",
@@ -101,6 +101,8 @@
       "52.143.222.0/23",
       "52.239.233.128/25",
       "57.150.230.0/23",
+      "57.157.108.0/28",
+      "57.157.108.16/29",
       "65.52.248.0/21",
       "70.152.32.0/24",
       "70.152.214.0/24",

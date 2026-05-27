@@ -2,13 +2,15 @@
   "name": "AzureAttestation.SwedenSouth",
   "id": "AzureAttestation.SwedenSouth",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "swedensouth",
     "regionId": 75,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
       "20.91.44.16/29",
+      "20.91.93.248/29",
+      "20.91.94.128/30",
       "51.12.198.4/30",
       "2603:1020:1104:1::3e0/123"
     ],
