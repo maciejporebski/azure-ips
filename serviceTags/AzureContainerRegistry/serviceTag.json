@@ -2,7 +2,7 @@
   "name": "AzureContainerRegistry",
   "id": "AzureContainerRegistry",
   "properties": {
-    "changeNumber": 99,
+    "changeNumber": 100,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -585,6 +585,7 @@
       "172.211.120.0/23",
       "172.212.129.0/24",
       "172.215.133.0/24",
+      "172.215.171.96/27",
       "172.215.202.64/26",
       "172.215.203.128/25",
       "191.233.50.16/29",

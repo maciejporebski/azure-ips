@@ -2,7 +2,7 @@
   "name": "AzureCloud.koreasouth",
   "id": "AzureCloud.koreasouth",
   "properties": {
-    "changeNumber": 50,
+    "changeNumber": 51,
     "region": "koreasouth",
     "regionId": 50,
     "platform": "Azure",
@@ -17,6 +17,7 @@
       "20.60.202.0/23",
       "20.135.26.0/23",
       "20.135.30.0/23",
+      "20.143.206.0/23",
       "20.150.14.0/23",
       "20.153.91.0/24",
       "20.157.137.0/24",
