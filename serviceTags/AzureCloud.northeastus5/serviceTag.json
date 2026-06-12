@@ -2,7 +2,7 @@
   "name": "AzureCloud.northeastus5",
   "id": "AzureCloud.northeastus5",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "northeastus5",
     "regionId": 109,
     "platform": "Azure",
@@ -21,6 +21,7 @@
       "57.157.96.184/30",
       "57.163.0.0/23",
       "57.163.4.0/23",
+      "74.149.0.0/17",
       "135.130.98.0/23",
       "135.130.100.0/24",
       "135.130.190.0/23",

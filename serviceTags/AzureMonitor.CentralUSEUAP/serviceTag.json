@@ -2,7 +2,7 @@
   "name": "AzureMonitor.CentralUSEUAP",
   "id": "AzureMonitor.CentralUSEUAP",
   "properties": {
-    "changeNumber": 13,
+    "changeNumber": 14,
     "region": "centraluseuap",
     "regionId": 48,
     "platform": "Azure",
@@ -19,6 +19,8 @@
       "52.180.164.91/32",
       "52.180.178.187/32",
       "52.180.182.209/32",
+      "57.173.15.0/24",
+      "57.173.16.112/28",
       "134.138.212.16/28",
       "168.61.142.0/27",
       "168.61.239.96/27",

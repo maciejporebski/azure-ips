@@ -2,12 +2,13 @@
   "name": "AzureMonitor.JioIndiaWest",
   "id": "AzureMonitor.JioIndiaWest",
   "properties": {
-    "changeNumber": 14,
+    "changeNumber": 15,
     "region": "jioindiawest",
     "regionId": 65,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "4.187.39.32/28",
       "20.192.167.160/27",
       "20.193.160.40/29",
       "20.193.160.48/28",

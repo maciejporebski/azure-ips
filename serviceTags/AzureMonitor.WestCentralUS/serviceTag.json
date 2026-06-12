@@ -2,7 +2,7 @@
   "name": "AzureMonitor.WestCentralUS",
   "id": "AzureMonitor.WestCentralUS",
   "properties": {
-    "changeNumber": 28,
+    "changeNumber": 29,
     "region": "westcentralus",
     "regionId": 36,
     "platform": "Azure",
@@ -57,6 +57,7 @@
       "2603:1030:b04:6::7c0/122",
       "2603:1030:b04:f::100/120",
       "2603:1030:b04:f::2c0/122",
+      "2603:1030:b04:11::140/122",
       "2603:1030:b04:402::500/121"
     ],
     "networkFeatures": [

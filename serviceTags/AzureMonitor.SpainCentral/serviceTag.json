@@ -2,7 +2,7 @@
   "name": "AzureMonitor.SpainCentral",
   "id": "AzureMonitor.SpainCentral",
   "properties": {
-    "changeNumber": 9,
+    "changeNumber": 10,
     "region": "spaincentral",
     "regionId": 88,
     "platform": "Azure",
@@ -31,7 +31,8 @@
       "2603:1020:1403:2::380/121",
       "2603:1020:1403:2::400/120",
       "2603:1020:1403:7::300/120",
-      "2603:1020:1403:7::440/123"
+      "2603:1020:1403:7::440/123",
+      "2603:1020:1403:8::780/123"
     ],
     "networkFeatures": [
       "NSG"
