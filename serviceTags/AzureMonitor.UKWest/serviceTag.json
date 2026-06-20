@@ -2,7 +2,7 @@
   "name": "AzureMonitor.UKWest",
   "id": "AzureMonitor.UKWest",
   "properties": {
-    "changeNumber": 19,
+    "changeNumber": 20,
     "region": "ukwest",
     "regionId": 28,
     "platform": "Azure",
@@ -40,6 +40,8 @@
       "2603:1020:605:b::600/120",
       "2603:1020:605:b::700/123",
       "2603:1020:605:d::520/123",
+      "2603:1020:605:e::/119",
+      "2603:1020:605:e::400/119",
       "2603:1020:605:402::500/121"
     ],
     "networkFeatures": [

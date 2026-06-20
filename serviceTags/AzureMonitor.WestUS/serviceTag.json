@@ -2,7 +2,7 @@
   "name": "AzureMonitor.WestUS",
   "id": "AzureMonitor.WestUS",
   "properties": {
-    "changeNumber": 51,
+    "changeNumber": 52,
     "region": "westus",
     "regionId": 37,
     "platform": "Azure",
@@ -54,6 +54,7 @@
       "2603:1030:a07:22::220/123",
       "2603:1030:a07:22::240/122",
       "2603:1030:a07:28::e0/123",
+      "2603:1030:a07:29::/118",
       "2603:1030:a07:402::380/121",
       "2603:1030:a07:800::/121",
       "2603:1030:a07:c00::300/121",

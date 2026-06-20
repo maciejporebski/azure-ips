@@ -2,7 +2,7 @@
   "name": "AzureMonitor.PolandCentral",
   "id": "AzureMonitor.PolandCentral",
   "properties": {
-    "changeNumber": 9,
+    "changeNumber": 10,
     "region": "polandcentral",
     "regionId": 52,
     "platform": "Azure",
@@ -38,7 +38,8 @@
       "2603:1020:1302:5::600/120",
       "2603:1020:1302:5::7e0/123",
       "2603:1020:1302:9::7c0/123",
-      "2603:1020:1302:a::2c0/123"
+      "2603:1020:1302:a::2c0/123",
+      "2603:1020:1302:b::/119"
     ],
     "networkFeatures": [
       "NSG"

@@ -2,7 +2,7 @@
   "name": "Storage.CentralUS",
   "id": "Storage.CentralUS",
   "properties": {
-    "changeNumber": 39,
+    "changeNumber": 40,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
@@ -113,6 +113,7 @@
       "145.190.145.0/24",
       "145.190.171.0/24",
       "145.190.178.0/24",
+      "145.190.185.0/24",
       "168.61.128.192/26",
       "168.61.129.0/25",
       "168.61.130.64/26",

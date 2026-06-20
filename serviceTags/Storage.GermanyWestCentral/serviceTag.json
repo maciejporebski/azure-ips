@@ -2,7 +2,7 @@
   "name": "Storage.GermanyWestCentral",
   "id": "Storage.GermanyWestCentral",
   "properties": {
-    "changeNumber": 14,
+    "changeNumber": 15,
     "region": "germanywc",
     "regionId": 71,
     "platform": "Azure",
@@ -23,6 +23,7 @@
       "20.209.242.0/23",
       "57.150.218.0/23",
       "135.130.200.0/23",
+      "145.190.184.0/24",
       "2603:1020:c05::/48"
     ],
     "networkFeatures": [

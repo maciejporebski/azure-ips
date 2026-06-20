@@ -2,7 +2,7 @@
   "name": "AzureMonitor.BrazilSoutheast",
   "id": "AzureMonitor.BrazilSoutheast",
   "properties": {
-    "changeNumber": 16,
+    "changeNumber": 17,
     "region": "brazilse",
     "regionId": 77,
     "platform": "Azure",
@@ -31,6 +31,8 @@
       "2603:1050:403:7::660/123",
       "2603:1050:403:8::6f0/125",
       "2603:1050:403:8::700/120",
+      "2603:1050:403:9::600/119",
+      "2603:1050:403:a::/119",
       "2603:1050:403:400::580/121"
     ],
     "networkFeatures": [

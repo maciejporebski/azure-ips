@@ -2,7 +2,7 @@
   "name": "AzureMonitor.UAECentral",
   "id": "AzureMonitor.UAECentral",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "uaecentral",
     "regionId": 61,
     "platform": "Azure",
@@ -33,6 +33,7 @@
       "2603:1040:b04:5::480/121",
       "2603:1040:b04:8::4a0/123",
       "2603:1040:b04:9::500/123",
+      "2603:1040:b04:a::/118",
       "2603:1040:b04:402::500/121"
     ],
     "networkFeatures": [

@@ -2,7 +2,7 @@
   "name": "AzureMonitor.AustraliaCentral2",
   "id": "AzureMonitor.AustraliaCentral2",
   "properties": {
-    "changeNumber": 14,
+    "changeNumber": 15,
     "region": "australiacentral2",
     "regionId": 59,
     "platform": "Azure",
@@ -29,6 +29,8 @@
       "2603:1010:404:5::440/122",
       "2603:1010:404:5::600/121",
       "2603:1010:404:8::e0/123",
+      "2603:1010:404:9::400/119",
+      "2603:1010:404:a::/119",
       "2603:1010:404:402::500/121"
     ],
     "networkFeatures": [

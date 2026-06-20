@@ -2,7 +2,7 @@
   "name": "AzureMonitor.GermanyNorth",
   "id": "AzureMonitor.GermanyNorth",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "germanyn",
     "regionId": 72,
     "platform": "Azure",
@@ -33,6 +33,7 @@
       "2603:1020:d04:9::400/120",
       "2603:1020:d04:9::740/123",
       "2603:1020:d04:a::760/123",
+      "2603:1020:d04:b::200/119",
       "2603:1020:d04:402::500/121"
     ],
     "networkFeatures": [

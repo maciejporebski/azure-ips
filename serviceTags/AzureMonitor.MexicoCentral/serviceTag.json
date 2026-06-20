@@ -2,7 +2,7 @@
   "name": "AzureMonitor.MexicoCentral",
   "id": "AzureMonitor.MexicoCentral",
   "properties": {
-    "changeNumber": 10,
+    "changeNumber": 11,
     "region": "mexicocentral",
     "regionId": 53,
     "platform": "Azure",
@@ -31,7 +31,9 @@
       "2603:1030:702:2::380/121",
       "2603:1030:702:2::400/120",
       "2603:1030:702:7::100/120",
-      "2603:1030:702:7::220/123"
+      "2603:1030:702:7::220/123",
+      "2603:1030:702:9::/119",
+      "2603:1030:702:9::400/119"
     ],
     "networkFeatures": [
       "NSG"

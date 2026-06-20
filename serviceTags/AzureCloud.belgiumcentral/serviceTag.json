@@ -2,7 +2,7 @@
   "name": "AzureCloud.belgiumcentral",
   "id": "AzureCloud.belgiumcentral",
   "properties": {
-    "changeNumber": 13,
+    "changeNumber": 14,
     "region": "belgiumcentral",
     "regionId": 97,
     "platform": "Azure",
@@ -35,6 +35,7 @@
       "57.150.196.0/23",
       "57.150.198.0/24",
       "57.163.14.0/23",
+      "74.152.0.0/17",
       "145.190.157.0/24",
       "209.199.27.32/27",
       "209.199.28.64/26",
