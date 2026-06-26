@@ -2,7 +2,7 @@
   "name": "AzureMonitor.NorthEurope",
   "id": "AzureMonitor.NorthEurope",
   "properties": {
-    "changeNumber": 32,
+    "changeNumber": 33,
     "region": "northeurope",
     "regionId": 17,
     "platform": "Azure",
@@ -64,6 +64,7 @@
       "52.169.64.244/32",
       "74.144.24.0/24",
       "74.144.26.160/27",
+      "74.144.69.32/27",
       "104.41.224.134/32",
       "137.116.226.81/32",
       "2603:1020:5::60/123",

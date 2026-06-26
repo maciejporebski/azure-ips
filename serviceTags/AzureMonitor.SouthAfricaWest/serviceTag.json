@@ -2,7 +2,7 @@
   "name": "AzureMonitor.SouthAfricaWest",
   "id": "AzureMonitor.SouthAfricaWest",
   "properties": {
-    "changeNumber": 18,
+    "changeNumber": 19,
     "region": "southafricawest",
     "regionId": 83,
     "platform": "Azure",
@@ -10,6 +10,7 @@
     "addressPrefixes": [
       "40.117.24.128/27",
       "74.160.6.64/28",
+      "74.160.9.96/28",
       "102.37.64.128/27",
       "102.37.80.64/27",
       "102.37.86.196/31",

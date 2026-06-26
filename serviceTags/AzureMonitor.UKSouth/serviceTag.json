@@ -2,7 +2,7 @@
   "name": "AzureMonitor.UKSouth",
   "id": "AzureMonitor.UKSouth",
   "properties": {
-    "changeNumber": 21,
+    "changeNumber": 22,
     "region": "uksouth",
     "regionId": 27,
     "platform": "Azure",
@@ -46,6 +46,7 @@
       "51.145.44.242/32",
       "172.165.1.0/28",
       "172.165.25.224/27",
+      "172.165.26.32/28",
       "172.165.84.176/28",
       "172.187.86.96/27",
       "172.187.86.192/26",

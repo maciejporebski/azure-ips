@@ -2,7 +2,7 @@
   "name": "AzureMonitor.EastAsia",
   "id": "AzureMonitor.EastAsia",
   "properties": {
-    "changeNumber": 29,
+    "changeNumber": 30,
     "region": "eastasia",
     "regionId": 1,
     "platform": "Azure",
@@ -20,6 +20,7 @@
       "13.75.117.221/32",
       "13.75.119.169/32",
       "13.94.39.13/32",
+      "20.2.186.192/28",
       "20.6.185.208/28",
       "20.187.197.192/27",
       "20.189.81.11/32",
