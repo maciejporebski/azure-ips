@@ -2,12 +2,15 @@
   "name": "AzureCloud.newzealandnorth",
   "id": "AzureCloud.newzealandnorth",
   "properties": {
-    "changeNumber": 35,
+    "changeNumber": 36,
     "region": "newzealandnorth",
     "regionId": 91,
     "platform": "Azure",
     "systemService": "",
     "addressPrefixes": [
+      "9.129.52.0/26",
+      "9.129.55.224/27",
+      "9.129.58.112/28",
       "20.20.40.0/24",
       "20.33.190.0/24",
       "20.33.196.0/24",

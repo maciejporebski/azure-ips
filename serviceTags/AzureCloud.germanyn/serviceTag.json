@@ -2,13 +2,14 @@
   "name": "AzureCloud.germanyn",
   "id": "AzureCloud.germanyn",
   "properties": {
-    "changeNumber": 37,
+    "changeNumber": 38,
     "region": "germanyn",
     "regionId": 72,
     "platform": "Azure",
     "systemService": "",
     "addressPrefixes": [
       "4.184.0.0/20",
+      "9.129.42.0/25",
       "13.104.144.96/27",
       "13.104.212.64/26",
       "20.38.115.0/24",

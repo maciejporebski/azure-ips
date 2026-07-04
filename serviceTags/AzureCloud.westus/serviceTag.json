@@ -2,13 +2,16 @@
   "name": "AzureCloud.westus",
   "id": "AzureCloud.westus",
   "properties": {
-    "changeNumber": 141,
+    "changeNumber": 142,
     "region": "westus",
     "regionId": 37,
     "platform": "Azure",
     "systemService": "",
     "addressPrefixes": [
       "4.150.224.0/19",
+      "9.129.20.0/23",
+      "9.129.40.0/24",
+      "9.129.58.144/28",
       "13.64.0.0/16",
       "13.73.32.0/19",
       "13.83.0.0/16",

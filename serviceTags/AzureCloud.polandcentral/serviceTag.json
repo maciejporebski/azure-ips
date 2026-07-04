@@ -2,12 +2,16 @@
   "name": "AzureCloud.polandcentral",
   "id": "AzureCloud.polandcentral",
   "properties": {
-    "changeNumber": 59,
+    "changeNumber": 60,
     "region": "polandcentral",
     "regionId": 52,
     "platform": "Azure",
     "systemService": "",
     "addressPrefixes": [
+      "9.129.22.0/23",
+      "9.129.49.128/25",
+      "9.129.54.128/26",
+      "9.129.57.208/28",
       "13.105.104.80/28",
       "13.105.104.128/26",
       "20.20.34.0/24",

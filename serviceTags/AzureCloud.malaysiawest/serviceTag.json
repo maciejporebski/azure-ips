@@ -2,12 +2,14 @@
   "name": "AzureCloud.malaysiawest",
   "id": "AzureCloud.malaysiawest",
   "properties": {
-    "changeNumber": 21,
+    "changeNumber": 22,
     "region": "malaysiawest",
     "regionId": 92,
     "platform": "Azure",
     "systemService": "",
     "addressPrefixes": [
+      "9.129.54.64/26",
+      "9.129.55.128/27",
       "20.17.80.0/20",
       "20.17.96.0/19",
       "20.17.128.0/18",
