@@ -2,7 +2,7 @@
   "name": "AzureAttestation.NewZealandNorth",
   "id": "AzureAttestation.NewZealandNorth",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "newzealandnorth",
     "regionId": 91,
     "platform": "Azure",
@@ -10,6 +10,8 @@
     "addressPrefixes": [
       "172.196.77.104/29",
       "172.196.77.112/30",
+      "172.196.116.72/29",
+      "172.196.117.32/30",
       "172.204.152.20/30",
       "172.204.255.208/29",
       "2603:1010:502::5c0/124"

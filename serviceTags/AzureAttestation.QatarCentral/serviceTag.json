@@ -2,12 +2,14 @@
   "name": "AzureAttestation.QatarCentral",
   "id": "AzureAttestation.QatarCentral",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "qatarcentral",
     "regionId": 84,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
+      "4.170.15.188/30",
+      "4.170.28.32/29",
       "20.21.32.44/30",
       "20.173.219.236/30",
       "20.173.220.40/29",

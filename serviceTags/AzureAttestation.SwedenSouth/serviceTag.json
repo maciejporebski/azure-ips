@@ -2,7 +2,7 @@
   "name": "AzureAttestation.SwedenSouth",
   "id": "AzureAttestation.SwedenSouth",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "swedensouth",
     "regionId": 75,
     "platform": "Azure",
@@ -12,6 +12,8 @@
       "20.91.93.248/29",
       "20.91.94.128/30",
       "51.12.198.4/30",
+      "74.241.69.100/30",
+      "74.241.69.104/29",
       "2603:1020:1104:1::3e0/123"
     ],
     "networkFeatures": null

@@ -2,7 +2,7 @@
   "name": "AzureAttestation.SwitzerlandNorth",
   "id": "AzureAttestation.SwitzerlandNorth",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "switzerlandn",
     "regionId": 66,
     "platform": "Azure",
@@ -13,6 +13,8 @@
       "51.107.128.36/30",
       "74.242.178.144/29",
       "74.242.178.152/30",
+      "172.161.230.124/30",
+      "172.161.230.224/29",
       "2603:1020:a04:2::530/124"
     ],
     "networkFeatures": null

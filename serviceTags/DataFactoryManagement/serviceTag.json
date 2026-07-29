@@ -2,7 +2,7 @@
   "name": "DataFactoryManagement",
   "id": "DataFactoryManagement",
   "properties": {
-    "changeNumber": 77,
+    "changeNumber": 78,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -210,7 +210,6 @@
       "40.120.9.192/28",
       "40.120.64.112/28",
       "40.120.75.112/28",
-      "40.122.0.16/28",
       "48.196.97.224/28",
       "48.196.98.128/27",
       "48.197.89.112/28",

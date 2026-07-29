@@ -2,13 +2,15 @@
   "name": "AzureAttestation.AustraliaSoutheast",
   "id": "AzureAttestation.AustraliaSoutheast",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "australiasoutheast",
     "regionId": 4,
     "platform": "Azure",
     "systemService": "AzureAttestation",
     "addressPrefixes": [
       "4.199.42.232/29",
+      "4.200.209.204/30",
+      "4.200.209.240/29",
       "20.11.225.140/30",
       "20.11.225.160/29",
       "104.46.162.16/30",

@@ -2,12 +2,13 @@
   "name": "AzureMonitor.NortheastUS5",
   "id": "AzureMonitor.NortheastUS5",
   "properties": {
-    "changeNumber": 2,
+    "changeNumber": 3,
     "region": "northeastus5",
     "regionId": 109,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "74.149.6.192/26",
       "172.194.81.104/29",
       "172.194.82.224/29",
       "172.194.82.232/31",
@@ -20,6 +21,7 @@
       "2603:1030:1602:3::280/121",
       "2603:1030:1602:3::300/121",
       "2603:1030:1602:5::200/119",
+      "2603:1030:1602:5::5c0/122",
       "2603:1030:1602:5::600/119"
     ],
     "networkFeatures": [

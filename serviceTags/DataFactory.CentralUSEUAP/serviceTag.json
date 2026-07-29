@@ -2,7 +2,7 @@
   "name": "DataFactory.CentralUSEUAP",
   "id": "DataFactory.CentralUSEUAP",
   "properties": {
-    "changeNumber": 7,
+    "changeNumber": 8,
     "region": "centraluseuap",
     "regionId": 48,
     "platform": "Azure",
@@ -12,7 +12,6 @@
       "20.228.5.112/28",
       "20.228.7.0/25",
       "20.228.7.128/26",
-      "40.122.0.16/28",
       "52.176.232.16/28",
       "168.61.229.72/29",
       "168.61.229.160/29",
