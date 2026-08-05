@@ -2,7 +2,7 @@
   "name": "AzureAttestation.SoutheastAsia",
   "id": "AzureAttestation.SoutheastAsia",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "southeastasia",
     "regionId": 2,
     "platform": "Azure",
@@ -14,7 +14,8 @@
       "4.193.1.232/29",
       "4.193.2.0/30",
       "23.98.109.52/30",
-      "40.78.239.116/30"
+      "40.78.239.116/30",
+      "2603:1040:5:1e::40/124"
     ],
     "networkFeatures": null
   }

@@ -2,7 +2,7 @@
   "name": "AzureAttestation.EastUS2",
   "id": "AzureAttestation.EastUS2",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "eastus2",
     "regionId": 33,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "74.157.87.96/29",
       "74.157.87.104/30",
       "172.175.111.120/29",
-      "2603:1030:40c:29::5e0/124"
+      "2603:1030:40c:29::5e0/124",
+      "2603:1030:40c:34::580/124"
     ],
     "networkFeatures": null
   }

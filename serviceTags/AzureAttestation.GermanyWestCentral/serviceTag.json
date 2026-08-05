@@ -2,7 +2,7 @@
   "name": "AzureAttestation.GermanyWestCentral",
   "id": "AzureAttestation.GermanyWestCentral",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "germanywc",
     "regionId": 71,
     "platform": "Azure",
@@ -14,7 +14,8 @@
       "48.203.191.132/30",
       "48.203.191.136/29",
       "51.116.149.224/30",
-      "51.116.246.16/30"
+      "51.116.246.16/30",
+      "2603:1020:c04:11::80/124"
     ],
     "networkFeatures": null
   }

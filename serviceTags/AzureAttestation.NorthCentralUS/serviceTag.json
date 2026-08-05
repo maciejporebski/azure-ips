@@ -2,7 +2,7 @@
   "name": "AzureAttestation.NorthCentralUS",
   "id": "AzureAttestation.NorthCentralUS",
   "properties": {
-    "changeNumber": 6,
+    "changeNumber": 7,
     "region": "northcentralus",
     "regionId": 34,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "20.66.224.32/29",
       "20.66.224.40/30",
       "52.162.111.140/30",
-      "2603:1030:608:3::650/124"
+      "2603:1030:608:3::650/124",
+      "2603:1030:608:19::2b0/124"
     ],
     "networkFeatures": null
   }

@@ -2,7 +2,7 @@
   "name": "AzureAttestation.UKWest",
   "id": "AzureAttestation.UKWest",
   "properties": {
-    "changeNumber": 6,
+    "changeNumber": 7,
     "region": "ukwest",
     "regionId": 28,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "172.186.116.240/29",
       "172.186.143.108/30",
       "172.186.143.128/29",
-      "2603:1020:605:3::3d0/124"
+      "2603:1020:605:3::3d0/124",
+      "2603:1020:605:e::680/124"
     ],
     "networkFeatures": null
   }

@@ -2,7 +2,7 @@
   "name": "AzureAttestation.GermanyNorth",
   "id": "AzureAttestation.GermanyNorth",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "germanyn",
     "regionId": 72,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "98.67.2.112/29",
       "98.67.21.204/30",
       "98.67.22.32/29",
-      "2603:1020:d04:2::650/124"
+      "2603:1020:d04:2::650/124",
+      "2603:1020:d04:c::400/124"
     ],
     "networkFeatures": null
   }

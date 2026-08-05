@@ -2,7 +2,7 @@
   "name": "AzureAttestation.FranceCentral",
   "id": "AzureAttestation.FranceCentral",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "centralfrance",
     "regionId": 19,
     "platform": "Azure",
@@ -14,7 +14,8 @@
       "4.212.7.196/30",
       "4.212.7.200/29",
       "40.79.141.132/30",
-      "51.138.210.128/30"
+      "51.138.210.128/30",
+      "2603:1020:805:12::4f0/124"
     ],
     "networkFeatures": null
   }

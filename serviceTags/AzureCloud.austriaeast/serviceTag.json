@@ -2,7 +2,7 @@
   "name": "AzureCloud.austriaeast",
   "id": "AzureCloud.austriaeast",
   "properties": {
-    "changeNumber": 16,
+    "changeNumber": 17,
     "region": "austriaeast",
     "regionId": 95,
     "platform": "Azure",
@@ -73,6 +73,7 @@
       "2603:1061:1003::/48",
       "2603:1061:1311::/54",
       "2603:1061:173d::/48",
+      "2603:1061:2002:c800::/57",
       "2603:1061:2010:3d::/64",
       "2603:1061:2011:3d::/64",
       "2603:1063:13a::/56",

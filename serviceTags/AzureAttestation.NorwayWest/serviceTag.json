@@ -2,7 +2,7 @@
   "name": "AzureAttestation.NorwayWest",
   "id": "AzureAttestation.NorwayWest",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "norwayw",
     "regionId": 74,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "51.13.136.184/30",
       "74.240.13.228/30",
       "74.240.13.232/29",
-      "2603:1020:f04:3::750/124"
+      "2603:1020:f04:3::750/124",
+      "2603:1020:f04:b::380/124"
     ],
     "networkFeatures": null
   }

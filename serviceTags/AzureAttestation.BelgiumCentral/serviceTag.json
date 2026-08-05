@@ -2,7 +2,7 @@
   "name": "AzureAttestation.BelgiumCentral",
   "id": "AzureAttestation.BelgiumCentral",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "belgiumcentral",
     "regionId": 97,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "9.160.195.152/30",
       "74.152.8.124/30",
       "74.152.8.160/29",
-      "2603:1020:1502::540/124"
+      "2603:1020:1502::540/124",
+      "2603:1020:1502:7::80/124"
     ],
     "networkFeatures": null
   }

@@ -2,7 +2,7 @@
   "name": "PowerBI",
   "id": "PowerBI",
   "properties": {
-    "changeNumber": 99,
+    "changeNumber": 100,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -924,7 +924,8 @@
       "2603:1050:301:2::380/122",
       "2603:1050:301:2::3c0/123",
       "2603:1050:403::5e0/123",
-      "2603:1050:403::600/122"
+      "2603:1050:403::600/122",
+      "2603:1061:17::/48"
     ],
     "networkFeatures": [
       "API",

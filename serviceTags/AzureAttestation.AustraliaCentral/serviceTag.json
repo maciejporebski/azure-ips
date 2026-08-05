@@ -2,7 +2,7 @@
   "name": "AzureAttestation.AustraliaCentral",
   "id": "AzureAttestation.AustraliaCentral",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "australiacentral",
     "regionId": 58,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "20.53.0.104/30",
       "74.147.19.128/29",
       "74.147.19.136/30",
-      "2603:1010:304:2::6b0/124"
+      "2603:1010:304:2::6b0/124",
+      "2603:1010:304:e::420/124"
     ],
     "networkFeatures": null
   }

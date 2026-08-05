@@ -2,7 +2,7 @@
   "name": "AzureAttestation.CentralUS",
   "id": "AzureAttestation.CentralUS",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
@@ -14,7 +14,8 @@
       "57.167.118.32/29",
       "57.175.115.20/30",
       "57.175.115.24/29",
-      "172.170.180.48/29"
+      "172.170.180.48/29",
+      "2603:1030:10:2b::10/124"
     ],
     "networkFeatures": null
   }

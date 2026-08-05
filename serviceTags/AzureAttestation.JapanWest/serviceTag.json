@@ -2,7 +2,7 @@
   "name": "AzureAttestation.JapanWest",
   "id": "AzureAttestation.JapanWest",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "japanwest",
     "regionId": 25,
     "platform": "Azure",
@@ -15,7 +15,8 @@
       "172.192.194.16/29",
       "172.192.225.104/29",
       "172.192.225.144/30",
-      "2603:1040:606:3::e0/124"
+      "2603:1040:606:3::e0/124",
+      "2603:1040:606:10::480/124"
     ],
     "networkFeatures": null
   }
