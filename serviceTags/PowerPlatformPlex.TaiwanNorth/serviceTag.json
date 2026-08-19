@@ -2,13 +2,14 @@
   "name": "PowerPlatformPlex.TaiwanNorth",
   "id": "PowerPlatformPlex.TaiwanNorth",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "taiwannorth",
     "regionId": 8,
     "platform": "Azure",
     "systemService": "PowerPlatformPlex",
     "addressPrefixes": [
-      "70.157.170.128/25"
+      "70.157.170.128/25",
+      "2603:1061:2004:dc00::/57"
     ],
     "networkFeatures": [
       "API",
