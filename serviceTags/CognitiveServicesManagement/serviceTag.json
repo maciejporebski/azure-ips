@@ -2,7 +2,7 @@
   "name": "CognitiveServicesManagement",
   "id": "CognitiveServicesManagement",
   "properties": {
-    "changeNumber": 83,
+    "changeNumber": 84,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -705,6 +705,7 @@
       "48.196.98.192/27",
       "48.196.100.0/26",
       "48.196.100.88/29",
+      "48.196.153.192/26",
       "48.197.89.208/28",
       "48.197.89.224/27",
       "48.197.90.128/26",
