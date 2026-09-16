@@ -2,12 +2,13 @@
   "name": "AzureMonitor.SoutheastUS5",
   "id": "AzureMonitor.SoutheastUS5",
   "properties": {
-    "changeNumber": 1,
+    "changeNumber": 2,
     "region": "southeastus5",
     "regionId": 106,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "48.200.141.64/27",
       "74.7.192.128/28",
       "74.7.192.144/31",
       "74.7.192.160/27",

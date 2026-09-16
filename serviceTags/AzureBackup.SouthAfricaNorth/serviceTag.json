@@ -2,7 +2,7 @@
   "name": "AzureBackup.SouthAfricaNorth",
   "id": "AzureBackup.SouthAfricaNorth",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "southafricanorth",
     "regionId": 82,
     "platform": "Azure",
@@ -10,6 +10,7 @@
     "addressPrefixes": [
       "4.221.233.187/32",
       "4.221.237.112/28",
+      "4.222.6.128/26",
       "102.37.160.192/26",
       "102.133.123.96/27",
       "102.133.155.64/26",

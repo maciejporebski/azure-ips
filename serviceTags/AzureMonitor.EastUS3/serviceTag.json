@@ -2,12 +2,13 @@
   "name": "AzureMonitor.EastUS3",
   "id": "AzureMonitor.EastUS3",
   "properties": {
-    "changeNumber": 3,
+    "changeNumber": 4,
     "region": "eastus3",
     "regionId": 104,
     "platform": "Azure",
     "systemService": "AzureMonitor",
     "addressPrefixes": [
+      "51.57.210.224/27",
       "134.138.82.12/30",
       "134.138.82.144/29",
       "134.138.82.152/30",
