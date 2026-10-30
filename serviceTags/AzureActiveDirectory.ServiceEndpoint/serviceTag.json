@@ -2,7 +2,7 @@
   "name": "AzureActiveDirectory.ServiceEndpoint",
   "id": "AzureActiveDirectory.ServiceEndpoint",
   "properties": {
-    "changeNumber": 51,
+    "changeNumber": 52,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -962,6 +962,7 @@
       "2603:1027:1:28::/121",
       "2603:1027:1:30::/121",
       "2603:1027:1:38::/121",
+      "2603:1027:1:40::40/122",
       "2603:1027:1:60::/121",
       "2603:1027:1:68::/121",
       "2603:1027:1:70::/121",
