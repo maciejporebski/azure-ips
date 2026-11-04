@@ -2,12 +2,13 @@
   "name": "ApiManagement.CanadaCentral",
   "id": "ApiManagement.CanadaCentral",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "canadacentral",
     "regionId": 11,
     "platform": "Azure",
     "systemService": "AzureApiManagement",
     "addressPrefixes": [
+      "4.173.130.4/30",
       "4.173.153.160/29",
       "4.173.153.168/30",
       "4.173.153.172/31",

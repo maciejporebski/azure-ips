@@ -2,12 +2,13 @@
   "name": "ApiManagement.JapanEast",
   "id": "ApiManagement.JapanEast",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "japaneast",
     "regionId": 24,
     "platform": "Azure",
     "systemService": "AzureApiManagement",
     "addressPrefixes": [
+      "4.189.210.116/30",
       "4.216.20.126/31",
       "4.216.23.160/29",
       "4.216.23.168/30",

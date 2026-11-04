@@ -2,12 +2,13 @@
   "name": "ApiManagement.KoreaCentral",
   "id": "ApiManagement.KoreaCentral",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "koreacentral",
     "regionId": 26,
     "platform": "Azure",
     "systemService": "AzureApiManagement",
     "addressPrefixes": [
+      "4.217.144.104/30",
       "4.230.208.236/30",
       "4.230.208.248/29",
       "4.230.209.64/31",
