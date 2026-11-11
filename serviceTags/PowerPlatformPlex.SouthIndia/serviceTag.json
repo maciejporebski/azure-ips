@@ -2,12 +2,13 @@
   "name": "PowerPlatformPlex.SouthIndia",
   "id": "PowerPlatformPlex.SouthIndia",
   "properties": {
-    "changeNumber": 7,
+    "changeNumber": 8,
     "region": "southindia",
     "regionId": 22,
     "platform": "Azure",
     "systemService": "PowerPlatformPlex",
     "addressPrefixes": [
+      "4.247.0.128/25",
       "20.40.5.0/26",
       "20.192.157.248/29",
       "20.207.219.24/29",

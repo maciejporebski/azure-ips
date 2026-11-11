@@ -2,7 +2,7 @@
   "name": "AzureCloud.centralus",
   "id": "AzureCloud.centralus",
   "properties": {
-    "changeNumber": 221,
+    "changeNumber": 222,
     "region": "centralus",
     "regionId": 31,
     "platform": "Azure",
@@ -476,6 +476,7 @@
       "52.113.129.0/24",
       "52.114.2.0/24",
       "52.114.128.0/22",
+      "52.114.190.0/24",
       "52.115.76.0/22",
       "52.115.88.0/22",
       "52.115.92.0/24",

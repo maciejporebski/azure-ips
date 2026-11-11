@@ -2,12 +2,13 @@
   "name": "PowerPlatformPlex.NorwayEast",
   "id": "PowerPlatformPlex.NorwayEast",
   "properties": {
-    "changeNumber": 6,
+    "changeNumber": 7,
     "region": "norwaye",
     "regionId": 63,
     "platform": "Azure",
     "systemService": "PowerPlatformPlex",
     "addressPrefixes": [
+      "4.219.41.0/25",
       "4.219.249.200/29",
       "4.219.249.208/29",
       "20.100.4.136/29",

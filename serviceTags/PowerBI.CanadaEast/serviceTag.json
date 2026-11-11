@@ -2,7 +2,7 @@
   "name": "PowerBI.CanadaEast",
   "id": "PowerBI.CanadaEast",
   "properties": {
-    "changeNumber": 4,
+    "changeNumber": 5,
     "region": "canadaeast",
     "regionId": 12,
     "platform": "Azure",
@@ -23,6 +23,9 @@
       "52.242.40.96/29",
       "52.242.47.40/30",
       "52.242.47.96/29",
+      "145.191.210.58/32",
+      "145.191.211.112/28",
+      "145.191.211.128/26",
       "2603:1030:1005::620/123",
       "2603:1030:1005::640/122"
     ],

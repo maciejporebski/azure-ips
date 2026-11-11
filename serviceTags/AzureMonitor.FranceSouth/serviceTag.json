@@ -2,7 +2,7 @@
   "name": "AzureMonitor.FranceSouth",
   "id": "AzureMonitor.FranceSouth",
   "properties": {
-    "changeNumber": 17,
+    "changeNumber": 18,
     "region": "southfrance",
     "regionId": 20,
     "platform": "Azure",
@@ -22,6 +22,7 @@
       "52.136.191.12/31",
       "98.66.23.176/28",
       "98.66.30.160/27",
+      "98.66.43.128/27",
       "2603:1020:905::780/121",
       "2603:1020:905:1::280/123",
       "2603:1020:905:1::300/121",
