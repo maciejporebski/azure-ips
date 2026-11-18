@@ -2,7 +2,7 @@
   "name": "AzureCloud.brazilsouth",
   "id": "AzureCloud.brazilsouth",
   "properties": {
-    "changeNumber": 111,
+    "changeNumber": 112,
     "region": "brazilsouth",
     "regionId": 9,
     "platform": "Azure",
@@ -52,6 +52,9 @@
       "9.129.119.0/27",
       "9.129.198.0/23",
       "9.129.246.224/27",
+      "9.129.253.112/28",
+      "9.129.253.128/25",
+      "9.129.254.0/26",
       "13.105.52.80/28",
       "13.105.52.128/26",
       "20.20.57.144/28",

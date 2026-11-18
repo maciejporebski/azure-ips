@@ -2,7 +2,7 @@
   "name": "AzureMonitor",
   "id": "AzureMonitor",
   "properties": {
-    "changeNumber": 197,
+    "changeNumber": 198,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -1109,6 +1109,7 @@
       "48.219.9.32/27",
       "48.219.9.64/27",
       "48.219.53.96/27",
+      "48.219.53.128/27",
       "48.219.91.224/27",
       "48.219.96.128/27",
       "48.219.203.242/31",

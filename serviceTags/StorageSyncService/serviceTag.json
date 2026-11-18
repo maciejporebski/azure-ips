@@ -2,7 +2,7 @@
   "name": "StorageSyncService",
   "id": "StorageSyncService",
   "properties": {
-    "changeNumber": 62,
+    "changeNumber": 63,
     "region": "",
     "regionId": 0,
     "platform": "Azure",
@@ -70,6 +70,7 @@
       "48.196.95.152/29",
       "48.197.87.144/29",
       "48.198.95.152/29",
+      "48.198.210.192/29",
       "48.216.8.56/29",
       "48.216.36.248/29",
       "48.219.212.72/29",

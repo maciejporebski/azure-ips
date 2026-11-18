@@ -2,7 +2,7 @@
   "name": "AzureArcInfrastructure.WestUS2",
   "id": "AzureArcInfrastructure.WestUS2",
   "properties": {
-    "changeNumber": 5,
+    "changeNumber": 6,
     "region": "westus2",
     "regionId": 38,
     "platform": "Azure",
@@ -18,7 +18,9 @@
       "48.204.56.231/32",
       "52.233.105.184/29",
       "52.233.111.64/31",
-      "2603:1030:c06:21::481/128"
+      "172.140.134.156/30",
+      "2603:1030:c06:21::481/128",
+      "2603:1030:c06:35::394/126"
     ],
     "networkFeatures": null
   }
